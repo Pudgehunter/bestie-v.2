@@ -1,0 +1,146 @@
+/* screen - anadir-dinero-a-ahorro24 */
+
+.anadir-dinero-a-ahorro24 {
+  background-color: transparent;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+#overlay-anadir-dinero-a-ahorro24 {
+  background-color: transparent;
+}
+
+.overlay .anadir-dinero-a-ahorro24 {
+  background-color: #00000000;
+}
+
+.anadir-dinero-a-ahorro24 .aadir-dinero-a-ahorro-C61RwL {
+  background-color: transparent;
+  height: 844px;
+  left: calc(50vw - 195.0px);
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 422.0px);
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro24 .rectangle-1326-QZdtrY {
+  background-color: transparent;
+  height: 698px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.anadir-dinero-a-ahorro24 .group-287-QZdtrY {
+  background-color: transparent;
+  height: 370px;
+  left: 28px;
+  position: absolute;
+  top: 216px;
+  width: 333px;
+}
+
+.anadir-dinero-a-ahorro24 .group-102-sGIpq8 {
+  background-color: transparent;
+  height: 370px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.anadir-dinero-a-ahorro24 .rectangle-1325-5ACSWi {
+  background-color: var(--hint-of-red);
+  border-radius: 10px;
+  height: 370px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.anadir-dinero-a-ahorro24 .group-101-5ACSWi {
+  background-color: transparent;
+  height: 57px;
+  left: 48px;
+  position: absolute;
+  top: 195px;
+  width: 243px;
+}
+
+.anadir-dinero-a-ahorro24 .felicidades-bzWL8B {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.anadir-dinero-a-ahorro24 .tu-dinero-se-ha-enviado-a-disponible-bzWL8B {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  width: 214px;
+}
+
+.anadir-dinero-a-ahorro24 .group-100-sGIpq8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 89px;
+  position: absolute;
+  top: 294px;
+  width: 158px;
+}
+
+.anadir-dinero-a-ahorro24 .rectangle-1324-LJECXi {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.anadir-dinero-a-ahorro24 .aceptar-LJECXi {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: 61px;
+}
+
+.anadir-dinero-a-ahorro24 .rectangle-16-QZdtrY {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}

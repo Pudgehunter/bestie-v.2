@@ -1,0 +1,815 @@
+/* screen - registro-cliente5 */
+
+.registro-cliente5 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.registro-cliente5 .vector-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 25px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.registro-cliente5 .rectangle-34-C61RwL {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.registro-cliente5 .rectangle-35-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 221px;
+}
+
+.registro-cliente5 .descubre-personas-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 119px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.registro-cliente5 .group-232-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 610px;
+  width: 259px;
+}
+
+.registro-cliente5 .rectangle-6-5SfYAT {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.registro-cliente5 .enviar-5SfYAT {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.registro-cliente5 .intersect-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 25px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 43px;
+}
+
+.registro-cliente5 .intersect-VMr6Om {
+  background-color: transparent;
+  height: 42px;
+  left: 25px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 42px;
+}
+
+.registro-cliente5 .intersect-mzXdH9 {
+  background-color: transparent;
+  height: 41px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 42px;
+}
+
+.registro-cliente5 .intersect-QxM5SU {
+  background-color: transparent;
+  height: 42px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 42px;
+}
+
+.registro-cliente5 .intersect-2P4qUJ {
+  background-color: transparent;
+  height: 43px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 405px;
+  width: 43px;
+}
+
+.registro-cliente5 .intersect-qr8e7q {
+  background-color: transparent;
+  height: 42px;
+  left: 25px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 458px;
+  width: 42px;
+}
+
+.registro-cliente5 .intersect-J1YQmd {
+  background-color: transparent;
+  height: 43px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 510px;
+  width: 43px;
+}
+
+.registro-cliente5 .group-316-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 191px;
+  width: 280px;
+}
+
+.registro-cliente5 .group-15-XSf9uo {
+  background-color: transparent;
+  height: 43px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 286px;
+}
+
+.registro-cliente5 .blink-custom-jewels-Fc6av7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente5 .blink-Fc6av7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-Fc6av7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente5 .seguir-Fc6av7 {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente5 .rectangle-36-yoo5rq {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente5 .seguir-yoo5rq {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente5 .group-16-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 83px;
+  position: absolute;
+  top: 191px;
+  width: 286px;
+}
+
+.registro-cliente5 .group-15-vUOK69 {
+  background-color: transparent;
+  height: 43px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.registro-cliente5 .blink-custom-jewels-0CrBxh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente5 .blink-0CrBxh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-0CrBxh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente5 .leepops-vUOK69 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.registro-cliente5 .lelepops-vUOK69 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-vUOK69 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.registro-cliente5 .seguir-vUOK69 {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 51px;
+}
+
+.registro-cliente5 .rectangle-36-0XrCpH {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente5 .seguir-0XrCpH {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente5 .group-18-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 350px;
+  width: 286px;
+}
+
+.registro-cliente5 .sweetcake-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente5 .sweet-cake-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente5 .seguir-0xverS {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente5 .rectangle-36-hhOXwm {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente5 .seguir-hhOXwm {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente5 .group-20-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 456px;
+  width: 286px;
+}
+
+.registro-cliente5 .colibr-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente5 .solo-lo-esencial-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente5 .seguir-IE4p6q {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente5 .rectangle-36-mYPNxN {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente5 .seguir-mYPNxN {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente5 .catico-C61RwL {
+  background-color: transparent;
+  color: var(--mist-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 527px;
+  width: auto;
+}
+
+.registro-cliente5 .group-19-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 403px;
+  width: 286px;
+}
+
+.registro-cliente5 .needle-bird-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente5 .nedle-bird-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente5 .seguir-ebBR7z {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente5 .rectangle-36-xlnrTi {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente5 .seguir-xlnrTi {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente5 .group-17-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 297px;
+  width: 286px;
+}
+
+.registro-cliente5 .takis-B2GfxI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente5 .takis-oficial-B2GfxI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-B2GfxI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente5 .seguir-B2GfxI {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente5 .rectangle-36-3qxEm7 {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente5 .seguir-3qxEm7 {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente5 .group-21-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 509px;
+  width: 284px;
+}
+
+.registro-cliente5 .wearecaotico-8x0eH3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente5 .emprendimiento-8x0eH3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente5 .seguir-8x0eH3 {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente5 .rectangle-36-8ZlFpC {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente5 .seguir-8ZlFpC {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente5 .estos-son-algunos-de-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 121px;
+  width: 325px;
+}

@@ -1,0 +1,738 @@
+/* screen - crear-proyecto-emprendedor-personalizado-1 */
+
+.crear-proyecto-emprendedor-personalizado-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .proyectos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .vector-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .paso1-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .paso1-C61RwL {
+  background-color: transparent;
+  height: 623px;
+  left: 33px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 128px;
+  width: 320px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .group-307-2libCb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 24px;
+  position: absolute;
+  top: 57px;
+  width: 276px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1308-xWwG4r {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .personalizado-xWwG4r {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 222px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-31-2libCb {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 60px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 159px;
+  width: 270px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .beneficio-para-tus-clientes-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .qu-es-lo-que-ofreces-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 117px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .ej-aretes-de-regalo-en-la-prxima-compra-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 170px;
+  width: 244px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .group-320-2libCb {
+  background-color: transparent;
+  height: 16px;
+  left: 271px;
+  position: absolute;
+  top: 197px;
+  width: 16px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1379-KC8DNJ {
+  background-color: var(--mist-gray);
+  border-radius: 1px;
+  height: 18px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -2px;
+  transform: rotate(-45.00deg);
+  width: 2px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1380-KC8DNJ {
+  background-color: var(--mist-gray);
+  border-radius: 1px;
+  height: 12px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  transform: rotate(-45.00deg);
+  width: 2px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .vector-2libCb {
+  background-color: transparent;
+  height: 10px;
+  left: 260px;
+  position: absolute;
+  top: 73px;
+  width: 20px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .group-317-2libCb {
+  background-color: transparent;
+  height: 38px;
+  left: 32px;
+  position: absolute;
+  top: 653px;
+  width: 259px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-6-Afct1V {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .enviar-Afct1V {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1384-2libCb {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 418px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .agregar-un-paso-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 428px;
+  width: 244px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-2libCb {
+  background-color: transparent;
+  height: 22px;
+  left: 262px;
+  position: absolute;
+  top: 426px;
+  width: 22px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1338-8Pznmx {
+  background-color: var(--cielo);
+  border-radius: 15.5px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-8Pznmx {
+  background-color: transparent;
+  height: 7px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .pasos-para-alcanzar-tu-meta-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 242px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .encontrar-el-carrito-2libCb {
+  background-color: transparent;
+  height: 34px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .buscar-un-buen-lugar-en-la-calle-2libCb {
+  background-color: transparent;
+  height: 20px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 329px;
+  width: 169px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .instalar-el-carrito-2libCb {
+  background-color: transparent;
+  height: 25px;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 365px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1381-2libCb {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 289px;
+  width: 16px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1382-2libCb {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 16px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1383-2libCb {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 371px;
+  width: 16px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-wHdKqr {
+  background-color: transparent;
+  height: 19px;
+  left: 251px;
+  position: absolute;
+  top: 288px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1338-zbfQV9 {
+  background-color: var(--star-dust);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-kYehvr {
+  background-color: transparent;
+  height: 19px;
+  left: 251px;
+  position: absolute;
+  top: 329px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1338-YxOZUi {
+  background-color: var(--star-dust);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-zxDle0 {
+  background-color: transparent;
+  height: 19px;
+  left: 251px;
+  position: absolute;
+  top: 370px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1338-Lnx3NT {
+  background-color: var(--star-dust);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-DfwgIg {
+  background-color: transparent;
+  height: 19px;
+  left: 280px;
+  position: absolute;
+  top: 288px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1338-BJ2l7Z {
+  background-color: var(--rojo);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-BJ2l7Z {
+  background-color: transparent;
+  height: 8px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  transform: rotate(45deg);
+  width: 8px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-o4ZKJ7 {
+  background-color: transparent;
+  height: 19px;
+  left: 280px;
+  position: absolute;
+  top: 329px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1338-7SHvzo {
+  background-color: var(--rojo);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-7SHvzo {
+  background-color: transparent;
+  height: 8px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  transform: rotate(45deg);
+  width: 8px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-hRzj7l {
+  background-color: transparent;
+  height: 19px;
+  left: 280px;
+  position: absolute;
+  top: 370px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1338-M4PRFi {
+  background-color: var(--rojo);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .plus-M4PRFi {
+  background-color: transparent;
+  height: 8px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  transform: rotate(45deg);
+  width: 8px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .group-321-2libCb {
+  background-color: transparent;
+  height: 9px;
+  left: 256px;
+  position: absolute;
+  top: 293px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .group-322-2libCb {
+  background-color: transparent;
+  height: 9px;
+  left: 256px;
+  position: absolute;
+  top: 334px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .group-323-2libCb {
+  background-color: transparent;
+  height: 9px;
+  left: 256px;
+  position: absolute;
+  top: 375px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .rectangle-1385-2libCb {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 564px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .introduce-el-valor-mnimo-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 478px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .esta-opcin-es-para-q-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 509px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .x-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 574px;
+  width: 244px;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .paso-1-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 166px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-personalizado-1 .nav-emprendimiento-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 753px;
+  width: 390px;
+}

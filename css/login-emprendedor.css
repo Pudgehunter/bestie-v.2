@@ -1,0 +1,313 @@
+/* screen - login-emprendedor */
+
+.login-emprendedor {
+  background-color: var(--cielo);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.login-emprendedor .bestie-C61RwL {
+  background-color: transparent;
+  height: 74px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 119px;
+  width: 221px;
+}
+
+.login-emprendedor .rectangle-32-C61RwL {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 52px;
+  left: 126px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 645px;
+  width: 52px;
+}
+
+.login-emprendedor .rectangle-33-C61RwL {
+  background-color: #3b5998;
+  border-radius: 7px;
+  height: 52px;
+  left: 206px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 645px;
+  width: 52px;
+}
+
+.login-emprendedor .inicia-sesin-con-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 601px;
+  width: auto;
+}
+
+.login-emprendedor .google-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 701px;
+  width: auto;
+}
+
+.login-emprendedor .facebook-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 215px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 701px;
+  width: auto;
+}
+
+.login-emprendedor .vector-11-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 261px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 611px;
+  width: 109px;
+}
+
+.login-emprendedor .vector-12-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 611px;
+  width: 109px;
+}
+
+.login-emprendedor .image-10-C61RwL {
+  background-color: transparent;
+  height: 42px;
+  left: 212px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 650px;
+  width: 42px;
+}
+
+.login-emprendedor .image-9-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 134px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 654px;
+  width: 36px;
+}
+
+.login-emprendedor .no-tienes-cuenta-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 504px;
+  width: 230px;
+}
+
+.login-emprendedor .group-262-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 114px;
+  position: absolute;
+  top: 530px;
+  width: 163px;
+}
+
+.login-emprendedor .rectangle-6-xK50sQ {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.login-emprendedor .enviar-xK50sQ {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.login-emprendedor .group-263-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 113px;
+  position: absolute;
+  top: 420px;
+  width: 163px;
+}
+
+.login-emprendedor .rectangle-6-A0D2x3 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.login-emprendedor .enviar-A0D2x3 {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.login-emprendedor .olvide-mi-contrasea-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 189px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 386px;
+  width: 169px;
+}
+
+.login-emprendedor .olvid-mi-contrasea-M4TY7X {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: -1px;
+  width: 169px;
+}
+
+.login-emprendedor .nombre-usuario-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 83px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 278px;
+  width: 224px;
+}
+
+.login-emprendedor .line-13-RUpa8C {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 25px;
+  width: 224px;
+}
+
+.login-emprendedor .nombre-de-usuario-RUpa8C {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.login-emprendedor .contrasea-usuario-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 83px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 339px;
+  width: 224px;
+}
+
+.login-emprendedor .line-14-I5ZCxM {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.login-emprendedor .contrasea-I5ZCxM {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 134px;
+}
+
+.login-emprendedor .iniciar-sesin-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 211px;
+  width: 230px;
+}

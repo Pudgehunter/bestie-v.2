@@ -1,0 +1,1383 @@
+/* screen - perfil-cliente4 */
+
+.perfil-cliente4 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.perfil-cliente4 .editar-perfil-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 247px;
+  width: 298px;
+}
+
+.perfil-cliente4 .group-341-LtwgzV {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 298px;
+}
+
+.perfil-cliente4 .rectangle-6-arz08U {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 298px;
+}
+
+.perfil-cliente4 .enviar-arz08U {
+  background-color: transparent;
+  height: 38px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 258px;
+}
+
+.perfil-cliente4 .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 67px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55px;
+  width: 67px;
+}
+
+.perfil-cliente4 .cali-colombia-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 104px;
+  width: 364px;
+}
+
+.perfil-cliente4 .iconly-bold-location-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 108px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 103px;
+  width: 16px;
+}
+
+.perfil-cliente4 .location-JGC954 {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 11px;
+}
+
+.perfil-cliente4 .location-vNZFNp {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 11px;
+}
+
+.perfil-cliente4 .siguiendo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 195px;
+  width: auto;
+}
+
+.perfil-cliente4 .x29-emprendimientos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 216px;
+  width: auto;
+}
+
+.perfil-cliente4 .span0-Gh1juD {
+}
+
+.perfil-cliente4 .span1-Gh1juD {
+}
+
+.perfil-cliente4 .amo-el-maquillaje-la-comida-y-viajar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 137px;
+  white-space: nowrap;
+  width: 364px;
+}
+
+.perfil-cliente4 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente4 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.perfil-cliente4 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.perfil-cliente4 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente4 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.perfil-cliente4 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.perfil-cliente4 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.perfil-cliente4 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.perfil-cliente4 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.perfil-cliente4 .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.perfil-cliente4 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.perfil-cliente4 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.perfil-cliente4 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-cliente4 .iconly-bold-setting-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 338px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 255px;
+  width: 24px;
+}
+
+.perfil-cliente4 .setting-EKdZgX {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 19px;
+}
+
+.perfil-cliente4 .setting-8JeGiC {
+  background-color: transparent;
+  height: 20px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 19px;
+}
+
+.perfil-cliente4 .rectangle-1327-C61RwL {
+  background-color: transparent;
+  border-radius: 7.5px;
+  height: 38px;
+  left: 329px;
+  position: absolute;
+  top: 247px;
+  width: 42px;
+}
+
+.perfil-cliente4 .cart-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 347px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55px;
+  transform: rotate(-180deg);
+  width: 24px;
+}
+
+.perfil-cliente4 .vector-39-pu1fjz {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-180deg);
+  width: 24px;
+}
+
+.perfil-cliente4 .ellipse-36-pu1fjz {
+  background-color: transparent;
+  border-radius: 2.01px;
+  height: 4px;
+  left: 6px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.perfil-cliente4 .ellipse-37-pu1fjz {
+  background-color: transparent;
+  border-radius: 2.01px;
+  height: 4px;
+  left: 18px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.perfil-cliente4 .cliente-C61RwL {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 301px;
+  width: 390px;
+}
+
+.perfil-cliente4 .rectangle-1335-lVEd5U {
+  background-color: var(--white);
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente4 .iconly-bold-category-lVEd5U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.perfil-cliente4 .category-k8NVxp {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 20px;
+}
+
+.perfil-cliente4 .category-XcJf8x {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+
+.perfil-cliente4 .solid-general-shopping-bag-lVEd5U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 8px;
+  width: 29px;
+}
+
+.perfil-cliente4 .vector-9-lVEd5U {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 50px;
+  width: 390px;
+}
+
+.perfil-cliente4 .vector-10-lVEd5U {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.perfil-cliente4 .iconly-bold-heart-lVEd5U {
+  background-color: transparent;
+  height: 24px;
+  left: 183px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.perfil-cliente4 .heart-LjJtgy {
+  background-color: transparent;
+  height: 19px;
+  left: 2px;
+  position: relative;
+  top: 3px;
+  width: 20px;
+}
+
+.perfil-cliente4 .heart-zcSv2Y {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente4 .camila-montoya-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  width: auto;
+}
+
+.perfil-cliente4 .cami-montoya22-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 79px;
+  width: auto;
+}
+
+.perfil-cliente4 .frame-93-C61RwL {
+  background-color: var(--white);
+  height: 753px;
+  left: -8px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 362px;
+  width: 398px;
+}
+
+.perfil-cliente4 .group-248-6WlmP4 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 241px;
+  left: 208px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-248-8U2j6z {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-244-8U2j6z {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .rectangle-54-E5jCyT {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-243-8U2j6z {
+  background-color: transparent;
+  height: 66px;
+  left: 13px;
+  position: absolute;
+  top: 166px;
+  width: 159px;
+}
+
+.perfil-cliente4 .view-wsnV50 {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 54px;
+  width: 13px;
+}
+
+.perfil-cliente4 .intersect-KSwnDY {
+  background-color: transparent;
+  height: 9px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.perfil-cliente4 .ellipse-31-KSwnDY {
+  background-color: transparent;
+  border-radius: 2.62px/2.48px;
+  height: 5px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.perfil-cliente4 .x210-wsnV50 {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.perfil-cliente4 .nueva-coleccin-abril-wsnV50 {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-cliente4 .capsy-wsnV50 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 153px;
+}
+
+.perfil-cliente4 .x913-8U2j6z {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.perfil-cliente4 .icon-heart-8U2j6z {
+  background-color: transparent;
+  height: 10px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 11px;
+}
+
+.perfil-cliente4 .contenido-6WlmP4 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 241px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .contenido-cnAUOR {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-244-cnAUOR {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .rectangle-54-31VEob {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-243-cnAUOR {
+  background-color: transparent;
+  height: 66px;
+  left: 13px;
+  position: absolute;
+  top: 166px;
+  width: 159px;
+}
+
+.perfil-cliente4 .view-uxbI81 {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 54px;
+  width: 13px;
+}
+
+.perfil-cliente4 .intersect-AuIpMi {
+  background-color: transparent;
+  height: 9px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.perfil-cliente4 .ellipse-31-AuIpMi {
+  background-color: transparent;
+  border-radius: 2.62px/2.48px;
+  height: 5px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.perfil-cliente4 .x210-uxbI81 {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.perfil-cliente4 .nueva-coleccin-abril-uxbI81 {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-cliente4 .capsy-uxbI81 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 153px;
+}
+
+.perfil-cliente4 .x913-cnAUOR {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.perfil-cliente4 .icon-heart-cnAUOR {
+  background-color: transparent;
+  height: 10px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 11px;
+}
+
+.perfil-cliente4 .group-249-6WlmP4 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 241px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-249-0t0ocC {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-244-0t0ocC {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .rectangle-54-nvZFmw {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-243-0t0ocC {
+  background-color: transparent;
+  height: 66px;
+  left: 13px;
+  position: absolute;
+  top: 166px;
+  width: 159px;
+}
+
+.perfil-cliente4 .view-f109rC {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 54px;
+  width: 13px;
+}
+
+.perfil-cliente4 .intersect-cYpEiv {
+  background-color: transparent;
+  height: 9px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.perfil-cliente4 .ellipse-31-cYpEiv {
+  background-color: transparent;
+  border-radius: 2.62px/2.48px;
+  height: 5px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.perfil-cliente4 .x210-f109rC {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.perfil-cliente4 .nueva-coleccin-abril-f109rC {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-cliente4 .capsy-f109rC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 153px;
+}
+
+.perfil-cliente4 .x913-0t0ocC {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.perfil-cliente4 .icon-heart-0t0ocC {
+  background-color: transparent;
+  height: 10px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 11px;
+}
+
+.perfil-cliente4 .group-247-6WlmP4 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 241px;
+  left: 208px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 250px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-247-TMN2Po {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-244-TMN2Po {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .rectangle-54-T4V2sZ {
+  background-color: transparent;
+  height: 232px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-243-TMN2Po {
+  background-color: transparent;
+  height: 66px;
+  left: 13px;
+  position: absolute;
+  top: 166px;
+  width: 159px;
+}
+
+.perfil-cliente4 .view-xra32k {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 54px;
+  width: 13px;
+}
+
+.perfil-cliente4 .intersect-Mmk7Mq {
+  background-color: transparent;
+  height: 9px;
+  left: -0px;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.perfil-cliente4 .ellipse-31-Mmk7Mq {
+  background-color: transparent;
+  border-radius: 2.62px/2.48px;
+  height: 5px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.perfil-cliente4 .x210-xra32k {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.perfil-cliente4 .nueva-coleccin-abril-xra32k {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-cliente4 .capsy-xra32k {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 153px;
+}
+
+.perfil-cliente4 .x913-TMN2Po {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.perfil-cliente4 .icon-heart-TMN2Po {
+  background-color: transparent;
+  height: 10px;
+  left: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 11px;
+}
+
+.perfil-cliente4 .group-390-6WlmP4 {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 241px;
+  left: 208px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 500px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-390-R7uhoU {
+  background-color: transparent;
+  height: 190px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.perfil-cliente4 .group-244-R7uhoU {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .rectangle-54-RwbWM8 {
+  background-color: transparent;
+  height: 1px;
+  left: 89px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 120px;
+  width: 1px;
+}
+
+.perfil-cliente4 .group-243-R7uhoU {
+  background-color: transparent;
+  height: 66px;
+  left: 13px;
+  position: absolute;
+  top: 166px;
+  width: 159px;
+}
+
+.perfil-cliente4 .view-jHL2Zx {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 54px;
+  width: 13px;
+}
+
+.perfil-cliente4 .intersect-MbHXAi {
+  background-color: transparent;
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.perfil-cliente4 .ellipse-31-MbHXAi {
+  background-color: transparent;
+  border-radius: 2.62px/2.48px;
+  height: 5px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.perfil-cliente4 .x210-jHL2Zx {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.perfil-cliente4 .nueva-coleccin-abril-jHL2Zx {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-cliente4 .capsy-jHL2Zx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 153px;
+}
+
+.perfil-cliente4 .x913-R7uhoU {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.perfil-cliente4 .heart-R7uhoU {
+  background-color: transparent;
+  height: 1px;
+  left: 78px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 226px;
+  width: 1px;
+}
+
+.perfil-cliente4 .group-389-6WlmP4 {
+  background-color: transparent;
+  height: 241px;
+  left: 21px;
+  position: absolute;
+  top: 500px;
+  width: 180px;
+}
+
+.perfil-cliente4 .group-250-c32ozm {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 241px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .group-250-sgPLJk {
+  background-color: transparent;
+  height: 190px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 128px;
+}
+
+.perfil-cliente4 .group-244-sgPLJk {
+  background-color: transparent;
+  height: 241px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 178px;
+}
+
+.perfil-cliente4 .rectangle-54-lRZ735 {
+  background-color: transparent;
+  height: 1px;
+  left: 89px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 1px;
+}
+
+.perfil-cliente4 .group-243-sgPLJk {
+  background-color: transparent;
+  height: 66px;
+  left: 13px;
+  position: absolute;
+  top: 166px;
+  width: 159px;
+}
+
+.perfil-cliente4 .view-yCVxxX {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  position: absolute;
+  top: 54px;
+  width: 13px;
+}
+
+.perfil-cliente4 .intersect-bPqxpn {
+  background-color: transparent;
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.perfil-cliente4 .ellipse-31-bPqxpn {
+  background-color: transparent;
+  border-radius: 2.62px/2.48px;
+  height: 5px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 5px;
+}
+
+.perfil-cliente4 .x210-yCVxxX {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.perfil-cliente4 .nueva-coleccin-abril-yCVxxX {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 153px;
+}
+
+.perfil-cliente4 .capsy-yCVxxX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 153px;
+}
+
+.perfil-cliente4 .x913-sgPLJk {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.perfil-cliente4 .heart-sgPLJk {
+  background-color: transparent;
+  height: 1px;
+  left: 78px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 226px;
+  width: 1px;
+}
+
+.perfil-cliente4 .text_label-c32ozm {
+  background-color: transparent;
+  height: 46px;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: 62px;
+}
+
+.perfil-cliente4 .nav-cliente-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}

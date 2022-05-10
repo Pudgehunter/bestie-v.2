@@ -1,0 +1,129 @@
+/* screen - muchas-gracias */
+
+.muchas-gracias {
+  background-color: #fffcfc1a;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.muchas-gracias .muchas-gracias-C61RwL {
+  background-color: transparent;
+  height: 482px;
+  left: calc(50vw - 166.5px);
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 241.0px);
+  width: 333px;
+}
+
+.muchas-gracias .group-287-ILJILs {
+  background-color: transparent;
+  height: 482px;
+  left: -0px;
+  position: relative;
+  top: 0px;
+  width: 333px;
+}
+
+.muchas-gracias .group-102-v4lwX6 {
+  background-color: transparent;
+  height: 482px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.muchas-gracias .rectangle-1325-GRxOMU {
+  background-color: var(--hint-of-red);
+  border-radius: 7px;
+  height: 482px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.muchas-gracias .group-101-GRxOMU {
+  background-color: transparent;
+  height: 209px;
+  left: 36px;
+  position: absolute;
+  top: 217px;
+  width: 264px;
+}
+
+.muchas-gracias .muchas-gracias-por-tu-apoyo-txHjIN {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.muchas-gracias .el-comprobante-de-tu-txHjIN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 260px;
+}
+
+.muchas-gracias .group-100-txHjIN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 52px;
+  position: absolute;
+  top: 159px;
+  width: 158px;
+}
+
+.muchas-gracias .rectangle-1324-oPGyWf {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.muchas-gracias .regresar-oPGyWf {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 61px;
+}
+
+.muchas-gracias .rectangle-16-v4lwX6 {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}

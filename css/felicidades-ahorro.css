@@ -1,0 +1,116 @@
+/* screen - felicidades-ahorro */
+
+.felicidades-ahorro {
+  background-color: transparent;
+  height: 371px;
+  overflow-x: hidden;
+  position: relative;
+  width: 333px;
+}
+
+#overlay-felicidades-ahorro {
+  background-color: transparent;
+}
+
+.overlay .felicidades-ahorro {
+  background-color: #00000000;
+}
+
+.felicidades-ahorro .group-102-C61RwL {
+  background-color: transparent;
+  height: 371px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.felicidades-ahorro .rectangle-1325-eYqyUC {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 371px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.felicidades-ahorro .group-101-eYqyUC {
+  background-color: transparent;
+  height: 144px;
+  left: 36px;
+  position: absolute;
+  top: 187px;
+  width: 264px;
+}
+
+.felicidades-ahorro .felicitaciones-DTbNNs {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.felicidades-ahorro .acabas-de-crear-tu-n-DTbNNs {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 260px;
+}
+
+.felicidades-ahorro .group-100-DTbNNs {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 52px;
+  position: absolute;
+  top: 107px;
+  width: 158px;
+}
+
+.felicidades-ahorro .rectangle-1324-r9negC {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.felicidades-ahorro .aceptar-r9negC {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 61px;
+}
+
+.felicidades-ahorro .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 123px;
+  left: 104px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 123px;
+}

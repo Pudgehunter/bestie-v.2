@@ -1,0 +1,138 @@
+/* screen - nuevo-ahorro-2 */
+
+.nuevo-ahorro-2 {
+  background-color: transparent;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.nuevo-ahorro-2 .nuevo-ahorro-C61RwL {
+  background-color: transparent;
+  height: 844px;
+  left: calc(50vw - 195.0px);
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 422.0px);
+  width: 390px;
+}
+
+.nuevo-ahorro-2 .rectangle-1326-oGT16q {
+  background-color: transparent;
+  height: 723px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.nuevo-ahorro-2 .group-287-oGT16q {
+  background-color: transparent;
+  height: 371px;
+  left: 29px;
+  position: absolute;
+  top: 222px;
+  width: 333px;
+}
+
+.nuevo-ahorro-2 .group-102-lx63Qf {
+  background-color: transparent;
+  height: 371px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.nuevo-ahorro-2 .rectangle-1325-CIlbcW {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 371px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.nuevo-ahorro-2 .group-101-CIlbcW {
+  background-color: transparent;
+  height: 144px;
+  left: 36px;
+  position: absolute;
+  top: 187px;
+  width: 264px;
+}
+
+.nuevo-ahorro-2 .felicitaciones-s63XTr {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.nuevo-ahorro-2 .acabas-de-crear-tu-n-s63XTr {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 260px;
+}
+
+.nuevo-ahorro-2 .group-100-s63XTr {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 52px;
+  position: absolute;
+  top: 107px;
+  width: 158px;
+}
+
+.nuevo-ahorro-2 .rectangle-1324-wV0EvO {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.nuevo-ahorro-2 .aceptar-wV0EvO {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: 61px;
+}
+
+.nuevo-ahorro-2 .rectangle-17-lx63Qf {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}

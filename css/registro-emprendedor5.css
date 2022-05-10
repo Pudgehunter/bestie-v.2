@@ -1,0 +1,267 @@
+/* screen - registro-emprendedor5 */
+
+.registro-emprendedor5 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.registro-emprendedor5 .set-empresarial-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: 52px;
+  position: absolute;
+  top: 223px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .line-15-qIb6go {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 19px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .nombre-de-tu-emprendimiento-qIb6go {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .set-empresarial-VMr6Om {
+  background-color: transparent;
+  height: 19px;
+  left: 52px;
+  position: absolute;
+  top: 277px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .line-16-aRtPaA {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 18px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .contrasea-aRtPaA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 267px;
+}
+
+.registro-emprendedor5 .set-empresarial-mzXdH9 {
+  background-color: transparent;
+  height: 19px;
+  left: 52px;
+  position: absolute;
+  top: 330px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .line-13-bOAeJR {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 18px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .verificar-contrasea-bOAeJR {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 267px;
+}
+
+.registro-emprendedor5 .set-empresarial-QxM5SU {
+  background-color: transparent;
+  height: 19px;
+  left: 52px;
+  position: absolute;
+  top: 384px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .line-14-Rbf2Yv {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 19px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .sector-del-negocio-Rbf2Yv {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .vector-Rbf2Yv {
+  background-color: transparent;
+  height: 11px;
+  left: 271px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.registro-emprendedor5 .vector-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 25px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.registro-emprendedor5 .rectangle-34-C61RwL {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.registro-emprendedor5 .rectangle-35-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 164px;
+}
+
+.registro-emprendedor5 .cmo-se-llama-tu-emprendimiento-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: auto;
+}
+
+.registro-emprendedor5 .group-232-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 614px;
+  width: 259px;
+}
+
+.registro-emprendedor5 .rectangle-6-5SfYAT {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.registro-emprendedor5 .enviar-5SfYAT {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.registro-emprendedor5 .este-es-el-nombre-de-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 121px;
+  width: 296px;
+}
+
+.registro-emprendedor5 .rectangle-1312-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 95px;
+  left: 53px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 448px;
+  width: 295px;
+}
+
+.registro-emprendedor5 .descripcin-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 453px;
+  width: 263px;
+}
+
+.registro-emprendedor5 .descripcin-C61RwL::placeholder {
+  color: #4e4b6699;
+}

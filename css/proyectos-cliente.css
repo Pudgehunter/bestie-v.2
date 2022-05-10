@@ -1,0 +1,519 @@
+/* screen - proyectos-cliente */
+
+.proyectos-cliente {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.proyectos-cliente .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.proyectos-cliente .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.proyectos-cliente .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.proyectos-cliente .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.proyectos-cliente .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.proyectos-cliente .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.proyectos-cliente .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.proyectos-cliente .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.proyectos-cliente .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.proyectos-cliente .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.proyectos-cliente .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.proyectos-cliente .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.proyectos-cliente .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.proyectos-cliente .emprendimientos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 135px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: auto;
+}
+
+.proyectos-cliente .span0-tny4tB {
+}
+
+.proyectos-cliente .span1-tny4tB {
+}
+
+.proyectos-cliente .vector-7-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 24px;
+  position: absolute;
+  top: 92px;
+  width: 390px;
+}
+
+.proyectos-cliente .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.proyectos-cliente .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.proyectos-cliente .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.proyectos-cliente .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.proyectos-cliente .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.proyectos-cliente .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.proyectos-cliente .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.proyectos-cliente .frame-87-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.proyectos-cliente .frame-87-C61RwL {
+  background-color: transparent;
+  height: 676px;
+  left: 0px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 93px;
+  width: 390px;
+}
+
+.proyectos-cliente .proyectos-activos-V6dEk7 {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: auto;
+}
+
+.proyectos-cliente .descubre-proyectos-d-V6dEk7 {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 265px;
+  width: 327px;
+}
+
+.proyectos-cliente .group-1982-V6dEk7 {
+  background-color: transparent;
+  height: 196px;
+  left: 19px;
+  position: absolute;
+  top: 51px;
+  width: 390px;
+}
+
+.proyectos-cliente .caotico-YD6W7c {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  white-space: nowrap;
+  width: 364px;
+}
+
+.proyectos-cliente .image-25-YD6W7c {
+  background-color: transparent;
+  height: 196px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.proyectos-cliente .rectangle-1382-YD6W7c {
+  background-color: transparent;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.proyectos-cliente .stand-en-va-para-emprendedores-YD6W7c {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 112px;
+  width: auto;
+}
+
+.proyectos-cliente .x50-completado-YD6W7c {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: auto;
+}
+
+.proyectos-cliente .rectangle-1377-YD6W7c {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 5px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 306px;
+}
+
+.proyectos-cliente .rectangle-1378-YD6W7c {
+  background-color: var(--rosa-claro);
+  border-radius: 4px;
+  height: 5px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 149px;
+}
+
+.proyectos-cliente .ver-lnea-del-tiempo-YD6W7c {
+  background-color: transparent;
+  height: auto;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 165px;
+  width: auto;
+}
+
+.proyectos-cliente .group-1980-V6dEk7 {
+  background-color: transparent;
+  height: 196px;
+  left: 20px;
+  position: absolute;
+  top: 318px;
+  width: 387px;
+}
+
+.proyectos-cliente .image-27-xVM8D9 {
+  background-color: transparent;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.proyectos-cliente .rectangle-1383-xVM8D9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 196px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 344px;
+}
+
+.proyectos-cliente .x20-completado-xVM8D9 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 134px;
+  width: auto;
+}
+
+.proyectos-cliente .rectangle-1384-xVM8D9 {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 5px;
+  left: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 306px;
+}
+
+.proyectos-cliente .rectangle-1385-xVM8D9 {
+  background-color: var(--rosa-claro);
+  border-radius: 4px;
+  height: 5px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 42px;
+}
+
+.proyectos-cliente .cohii-xVM8D9 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  white-space: nowrap;
+  width: 364px;
+}
+
+.proyectos-cliente .arriendo-este-mes-xVM8D9 {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 112px;
+  width: auto;
+}
+
+.proyectos-cliente .group-317-xVM8D9 {
+  background-color: transparent;
+  height: 23px;
+  left: 234px;
+  position: absolute;
+  top: 12px;
+  width: 94px;
+}
+
+.proyectos-cliente .rectangle-6-nZle8S {
+  background-color: var(--cielo);
+  border-radius: 4.16px;
+  height: 23px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 94px;
+}
+
+.proyectos-cliente .enviar-nZle8S {
+  background-color: transparent;
+  height: 23px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 81px;
+}

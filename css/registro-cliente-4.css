@@ -1,0 +1,815 @@
+/* screen - registro-cliente-4 */
+
+.registro-cliente-4 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.registro-cliente-4 .vector-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.registro-cliente-4 .rectangle-34-C61RwL {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.registro-cliente-4 .rectangle-35-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 221px;
+}
+
+.registro-cliente-4 .descubre-personas-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 119px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.registro-cliente-4 .group-232-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 610px;
+  width: 259px;
+}
+
+.registro-cliente-4 .rectangle-6-5SfYAT {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.registro-cliente-4 .enviar-5SfYAT {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.registro-cliente-4 .intersect-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 25px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 43px;
+}
+
+.registro-cliente-4 .intersect-VMr6Om {
+  background-color: transparent;
+  height: 42px;
+  left: 25px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 42px;
+}
+
+.registro-cliente-4 .intersect-mzXdH9 {
+  background-color: transparent;
+  height: 41px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 42px;
+}
+
+.registro-cliente-4 .intersect-QxM5SU {
+  background-color: transparent;
+  height: 42px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 42px;
+}
+
+.registro-cliente-4 .intersect-2P4qUJ {
+  background-color: transparent;
+  height: 43px;
+  left: 26px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 405px;
+  width: 43px;
+}
+
+.registro-cliente-4 .intersect-qr8e7q {
+  background-color: transparent;
+  height: 42px;
+  left: 25px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 458px;
+  width: 42px;
+}
+
+.registro-cliente-4 .intersect-J1YQmd {
+  background-color: transparent;
+  height: 43px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 510px;
+  width: 43px;
+}
+
+.registro-cliente-4 .group-316-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 191px;
+  width: 280px;
+}
+
+.registro-cliente-4 .group-15-XSf9uo {
+  background-color: transparent;
+  height: 43px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 286px;
+}
+
+.registro-cliente-4 .blink-custom-jewels-Fc6av7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente-4 .blink-Fc6av7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-Fc6av7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente-4 .seguir-Fc6av7 {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente-4 .rectangle-36-yoo5rq {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente-4 .seguir-yoo5rq {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente-4 .group-16-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 83px;
+  position: absolute;
+  top: 191px;
+  width: 286px;
+}
+
+.registro-cliente-4 .group-15-vUOK69 {
+  background-color: transparent;
+  height: 43px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.registro-cliente-4 .blink-custom-jewels-0CrBxh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente-4 .blink-0CrBxh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-0CrBxh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente-4 .leepops-vUOK69 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 53px;
+  width: auto;
+}
+
+.registro-cliente-4 .lelepops-vUOK69 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-vUOK69 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.registro-cliente-4 .seguir-vUOK69 {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 51px;
+}
+
+.registro-cliente-4 .rectangle-36-0XrCpH {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente-4 .seguir-0XrCpH {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente-4 .group-18-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 350px;
+  width: 286px;
+}
+
+.registro-cliente-4 .sweetcake-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente-4 .sweet-cake-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-0xverS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente-4 .seguir-0xverS {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente-4 .rectangle-36-hhOXwm {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente-4 .seguir-hhOXwm {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente-4 .group-20-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 456px;
+  width: 286px;
+}
+
+.registro-cliente-4 .colibr-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente-4 .solo-lo-esencial-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-IE4p6q {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente-4 .seguir-IE4p6q {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente-4 .rectangle-36-mYPNxN {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente-4 .seguir-mYPNxN {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente-4 .catico-C61RwL {
+  background-color: transparent;
+  color: var(--mist-gray);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 527px;
+  width: auto;
+}
+
+.registro-cliente-4 .group-19-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 403px;
+  width: 286px;
+}
+
+.registro-cliente-4 .needle-bird-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente-4 .nedle-bird-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-ebBR7z {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente-4 .seguir-ebBR7z {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente-4 .rectangle-36-xlnrTi {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente-4 .seguir-xlnrTi {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente-4 .group-17-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 297px;
+  width: 286px;
+}
+
+.registro-cliente-4 .takis-B2GfxI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente-4 .takis-oficial-B2GfxI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-B2GfxI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente-4 .seguir-B2GfxI {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente-4 .rectangle-36-3qxEm7 {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente-4 .seguir-3qxEm7 {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente-4 .group-21-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 83px;
+  position: absolute;
+  top: 509px;
+  width: 284px;
+}
+
+.registro-cliente-4 .wearecaotico-8x0eH3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registro-cliente-4 .emprendimiento-8x0eH3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: auto;
+}
+
+.registro-cliente-4 .seguir-8x0eH3 {
+  background-color: transparent;
+  height: 26px;
+  left: 229px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.registro-cliente-4 .rectangle-36-8ZlFpC {
+  background-color: var(--gray-icon);
+  border-radius: 5.13px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.registro-cliente-4 .seguir-8ZlFpC {
+  background-color: transparent;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  width: auto;
+}
+
+.registro-cliente-4 .estos-son-algunos-de-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 121px;
+  width: 325px;
+}

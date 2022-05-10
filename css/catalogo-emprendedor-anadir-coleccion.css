@@ -1,0 +1,328 @@
+/* screen - catalogo-emprendedor-anadir-coleccion */
+
+.catalogo-emprendedor-anadir-coleccion {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .nav-emprendimiento-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .rectangle-1463-VNtfJe {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .union-VNtfJe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .union-t9QcV5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .union-pIWv0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .union-rK7kDd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.catalogo-emprendedor-anadir-coleccion .golden-set-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 159px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.catalogo-emprendedor-anadir-coleccion .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .anillos-golden-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 121px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .cop-150000-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 147px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .rectangle-1337-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 83px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .conjunto-army-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 234px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .cop-135000-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .rectangle-1339-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 219px;
+  width: 83px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .ellipse-87-C61RwL {
+  background-color: var(--cielo-osc);
+  border-radius: 30px;
+  cursor: pointer;
+  height: 60px;
+  left: 301px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 682px;
+  width: 60px;
+}
+
+.catalogo-emprendedor-anadir-coleccion .edit-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 319px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 702px;
+  width: 24px;
+}

@@ -1,0 +1,591 @@
+/* screen - quiero-donar */
+
+.quiero-donar {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.quiero-donar .rectangle-1456-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 10px;
+  height: 57px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 619px;
+  width: 321px;
+}
+
+.quiero-donar .vector-140-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 58px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 666px;
+  width: 14px;
+}
+
+.quiero-donar .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 19px;
+  position: absolute;
+  top: 46px;
+  width: 12px;
+}
+
+.quiero-donar .quiero-donar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  width: auto;
+}
+
+.quiero-donar .rectangle-1331-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 32px;
+  position: absolute;
+  top: 342px;
+  width: 60px;
+}
+
+.quiero-donar .elige-el-regalo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 299px;
+  width: auto;
+}
+
+.quiero-donar .x500-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.quiero-donar .x12000-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 113px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.quiero-donar .ellipse-82-C61RwL {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 385px;
+  width: 22px;
+}
+
+.quiero-donar .x2-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: auto;
+}
+
+.quiero-donar .rectangle-1332-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 109px;
+  position: absolute;
+  top: 342px;
+  width: 60px;
+}
+
+.quiero-donar .ellipse-83-C61RwL {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 158px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 385px;
+  width: 22px;
+}
+
+.quiero-donar .x1-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 388px;
+  width: auto;
+}
+
+.quiero-donar .si-no-tienes-el-regalo-que-ests-buscando-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 451px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .adquiere-aqu-ms-stickers-C61RwL {
+  background-color: transparent;
+  color: var(--star-dust);
+  cursor: pointer;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 468px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .wearecaotic-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 555px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .x15000-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 594px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .confirma-tu-envo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 509px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .cuenta-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .valor-de-tu-regalo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 577px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .deja-tu-mensaje-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 624px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.quiero-donar .deja-tu-mensaje-C61RwL::placeholder {
+  color: #4e4b6699;
+}
+
+.quiero-donar .rectangle-1334-C61RwL {
+  background-color: var(--rosa-claro);
+  border-radius: 18px;
+  height: 4px;
+  left: 196px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 519px;
+  width: 153px;
+}
+
+.quiero-donar .group-231-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 109px;
+  position: absolute;
+  top: 704px;
+  width: 163px;
+}
+
+.quiero-donar .rectangle-6-hhpAbI {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.quiero-donar .enviar-hhpAbI {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.quiero-donar .donar-img-C61RwL {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 390px;
+}
+
+.quiero-donar .pexels-photo-by-antoni-shkraba-XvRjSC {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.quiero-donar .rectangle-1352-XvRjSC {
+  background-color: transparent;
+  height: 186px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.quiero-donar .image00007-C61RwL {
+  background-color: transparent;
+  height: 64px;
+  left: 116px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 340px;
+  width: 42px;
+}
+
+.quiero-donar .image00003-C61RwL {
+  background-color: transparent;
+  height: 45px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 350px;
+  width: 47px;
+}
+
+.quiero-donar .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.quiero-donar .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.quiero-donar .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.quiero-donar .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.quiero-donar .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.quiero-donar .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.quiero-donar .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.quiero-donar .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.quiero-donar .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.quiero-donar .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.quiero-donar .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.quiero-donar .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.quiero-donar .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.quiero-donar .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.quiero-donar .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.quiero-donar .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.quiero-donar .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.quiero-donar .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.quiero-donar .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.quiero-donar .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

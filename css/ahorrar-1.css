@@ -1,0 +1,598 @@
+/* screen - ahorrar-1 */
+
+.ahorrar-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.ahorrar-1 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ahorrar-1 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.ahorrar-1 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.ahorrar-1 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.ahorrar-1 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.ahorrar-1 .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.ahorrar-1 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.ahorrar-1 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.ahorrar-1 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.ahorrar-1 .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.ahorrar-1 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.ahorrar-1 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.ahorrar-1 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ahorrar-1 .we-are-caotic-ahorrar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 59px;
+  width: auto;
+}
+
+.ahorrar-1 .span0-KpjGQV {
+}
+
+.ahorrar-1 .span1-KpjGQV {
+}
+
+.ahorrar-1 .group-309-C61RwL {
+  background-color: transparent;
+  height: 87px;
+  left: 18px;
+  position: absolute;
+  top: 106px;
+  width: 358px;
+}
+
+.ahorrar-1 .rectangle-1373-gJGBzK {
+  background-color: var(--limon);
+  border-radius: 7px;
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 354px;
+}
+
+.ahorrar-1 .mask-group-gJGBzK {
+  background-color: transparent;
+  height: 87px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.ahorrar-1 .recuerda-gJGBzK {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 142px;
+}
+
+.ahorrar-1 .si-deseas-retirar-el-gJGBzK {
+  background-color: transparent;
+  height: auto;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 255px;
+}
+
+.ahorrar-1 .group-293-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 18px;
+  position: absolute;
+  top: 206px;
+  width: 354px;
+}
+
+.ahorrar-1 .rectangle-6-xlHGDl {
+  background-color: transparent;
+  height: 38px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.ahorrar-1 .group-313-xlHGDl {
+  background-color: transparent;
+  height: 14px;
+  left: 77px;
+  position: absolute;
+  top: 10px;
+  width: 201px;
+}
+
+.ahorrar-1 .crear-nuevo-plan-de-ahorro-iQ7yEj {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 185px;
+}
+
+.ahorrar-1 .union-iQ7yEj {
+  background-color: transparent;
+  height: 10px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.ahorrar-1 .nav-emprendimiento-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.ahorrar-1 .rectangle-1463-VNtfJe {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.ahorrar-1 .union-VNtfJe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.ahorrar-1 .union-t9QcV5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.ahorrar-1 .union-pIWv0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.ahorrar-1 .union-rK7kDd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.ahorrar-1 .group-1985-C61RwL {
+  background-color: transparent;
+  height: 172px;
+  left: 18px;
+  position: absolute;
+  top: 526px;
+  width: 354px;
+}
+
+.ahorrar-1 .group-310-VK1IEL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 172px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 360px;
+}
+
+.ahorrar-1 .rectangle-44-wvAcuR {
+  background-color: transparent;
+  height: 172px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.ahorrar-1 .mask-group-wvAcuR {
+  background-color: transparent;
+  height: 111px;
+  left: -0px;
+  position: absolute;
+  top: -1px;
+  width: 354px;
+}
+
+.ahorrar-1 .vamos-por-838400-wvAcuR {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 151px;
+  width: 112px;
+}
+
+.ahorrar-1 .meta-8560000-wvAcuR {
+  background-color: transparent;
+  height: auto;
+  left: 249px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 151px;
+  width: 91px;
+}
+
+.ahorrar-1 .span0-uPQxdq {
+}
+
+.ahorrar-1 .span1-uPQxdq {
+}
+
+.ahorrar-1 .rectangle-34-wvAcuR {
+  background-color: transparent;
+  height: 6px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 139px;
+  width: 322px;
+}
+
+.ahorrar-1 .rectangle-35-wvAcuR {
+  background-color: var(--azul);
+  border-radius: 7.03px;
+  height: 6px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 140px;
+  width: 78px;
+}
+
+.ahorrar-1 .la-moto-de-mis-sueos-wvAcuR {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 199px;
+}
+
+.ahorrar-1 .group-1986-C61RwL {
+  background-color: transparent;
+  height: 212px;
+  left: 18px;
+  position: absolute;
+  top: 296px;
+  width: 358px;
+}
+
+.ahorrar-1 .group-87-yoy9sg {
+  background-color: transparent;
+  height: 172px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 360px;
+}
+
+.ahorrar-1 .rectangle-44-gudeVx {
+  background-color: transparent;
+  height: 172px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 354px;
+}
+
+.ahorrar-1 .mask-group-gudeVx {
+  background-color: transparent;
+  height: 111px;
+  left: -0px;
+  position: absolute;
+  top: -1px;
+  width: 354px;
+}
+
+.ahorrar-1 .vamos-por-1560000-gudeVx {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 151px;
+  width: 133px;
+}
+
+.ahorrar-1 .meta-1560000-gudeVx {
+  background-color: transparent;
+  height: auto;
+  left: 249px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 151px;
+  width: 91px;
+}
+
+.ahorrar-1 .span0-8Mea36 {
+}
+
+.ahorrar-1 .span1-8Mea36 {
+}
+
+.ahorrar-1 .rectangle-34-gudeVx {
+  background-color: transparent;
+  height: 6px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 139px;
+  width: 322px;
+}
+
+.ahorrar-1 .para-mi-nueva-vitrina-gudeVx {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 199px;
+}
+
+.ahorrar-1 .felicidades-has-completado-tu-ahorro-yoy9sg {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 185px;
+  width: 199px;
+}
+
+.ahorrar-1 .rectangle-1376-yoy9sg {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 172px;
+  width: 354px;
+}
+
+.ahorrar-1 .rectangle-1377-yoy9sg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 226px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 180px;
+  width: 113px;
+}
+
+.ahorrar-1 .retirar-yoy9sg {
+  background-color: transparent;
+  height: auto;
+  left: 273px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 185px;
+  width: 29px;
+}
+
+.ahorrar-1 .tus-planes-actuales-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 267px;
+  width: 182px;
+}
+
+.ahorrar-1 .bestie-2-C61RwL {
+  background-color: transparent;
+  height: 79px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 114px;
+  width: 76px;
+}

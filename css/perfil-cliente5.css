@@ -1,0 +1,1396 @@
+/* screen - perfil-cliente5 */
+
+.perfil-cliente5 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.perfil-cliente5 .editar-perfil-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 247px;
+  width: 298px;
+}
+
+.perfil-cliente5 .group-341-LtwgzV {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 298px;
+}
+
+.perfil-cliente5 .rectangle-6-arz08U {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 298px;
+}
+
+.perfil-cliente5 .enviar-arz08U {
+  background-color: transparent;
+  height: 38px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 258px;
+}
+
+.perfil-cliente5 .cali-colombia-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 109px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 104px;
+  width: 364px;
+}
+
+.perfil-cliente5 .iconly-bold-location-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 108px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 103px;
+  width: 16px;
+}
+
+.perfil-cliente5 .location-JGC954 {
+  background-color: transparent;
+  height: 13px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 11px;
+}
+
+.perfil-cliente5 .location-vNZFNp {
+  background-color: transparent;
+  height: 13px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 11px;
+}
+
+.perfil-cliente5 .camila-montoya-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  width: auto;
+}
+
+.perfil-cliente5 .cami-montoya22-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 79px;
+  width: auto;
+}
+
+.perfil-cliente5 .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: -381px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 87px;
+  width: 1px;
+}
+
+.perfil-cliente5 .nombre-cliente-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: -330px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  width: auto;
+}
+
+.perfil-cliente5 .usuario-cliente-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: -330px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 79px;
+  width: auto;
+}
+
+.perfil-cliente5 .iconly-bold-setting-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: -89px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 45px;
+  width: 24px;
+}
+
+.perfil-cliente5 .setting-EKdZgX {
+  background-color: transparent;
+  height: 16px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 19px;
+}
+
+.perfil-cliente5 .setting-8JeGiC {
+  background-color: transparent;
+  height: 1px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.perfil-cliente5 .cali-colombia-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: -329px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 104px;
+  width: 364px;
+}
+
+.perfil-cliente5 .iconly-bold-location-VMr6Om {
+  background-color: transparent;
+  height: 13px;
+  left: -330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82px;
+  width: 16px;
+}
+
+.perfil-cliente5 .location-xbMmyY {
+  background-color: transparent;
+  height: 10px;
+  left: 2px;
+  position: relative;
+  top: 1px;
+  width: 11px;
+}
+
+.perfil-cliente5 .location-A54s88 {
+  background-color: transparent;
+  height: 1px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.perfil-cliente5 .siguiendo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: -413px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 195px;
+  width: auto;
+}
+
+.perfil-cliente5 .x29-emprendimientos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: -413px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 216px;
+  width: auto;
+}
+
+.perfil-cliente5 .span0-Gh1juD {
+}
+
+.perfil-cliente5 .span1-Gh1juD {
+}
+
+.perfil-cliente5 .x13-fundaciones-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: -248px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 216px;
+  width: auto;
+}
+
+.perfil-cliente5 .span0-Prj61n {
+}
+
+.perfil-cliente5 .span1-Prj61n {
+}
+
+.perfil-cliente5 .lorem-ipsum-dolor-si-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: -413px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 137px;
+  width: 364px;
+}
+
+.perfil-cliente5 .iconly-bold-category-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: -381px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 248px;
+  width: 24px;
+}
+
+.perfil-cliente5 .category-POafyi {
+  background-color: transparent;
+  height: 16px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 20px;
+}
+
+.perfil-cliente5 .category-e81Q7x {
+  background-color: transparent;
+  height: 1px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.perfil-cliente5 .solid-general-shopping-bag-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: -243px;
+  position: absolute;
+  top: 328px;
+  width: 1px;
+}
+
+.perfil-cliente5 .care-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 1px;
+  left: -93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 328px;
+  width: 1px;
+}
+
+.perfil-cliente5 .rectangle-38-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  height: 34px;
+  left: -413px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 251px;
+  width: 346px;
+}
+
+.perfil-cliente5 .editar-mi-perfil-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: -294px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 259px;
+  width: auto;
+}
+
+.perfil-cliente5 .rectangle-1328-C61RwL {
+  background-color: transparent;
+  height: 67px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55px;
+  width: 67px;
+}
+
+.perfil-cliente5 .siguiendo-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 195px;
+  width: auto;
+}
+
+.perfil-cliente5 .x29-emprendimientos-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 216px;
+  width: auto;
+}
+
+.perfil-cliente5 .span0-B5XzgA {
+}
+
+.perfil-cliente5 .span1-B5XzgA {
+}
+
+.perfil-cliente5 .amo-el-maquillaje-la-comida-y-viajar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 137px;
+  white-space: nowrap;
+  width: 364px;
+}
+
+.perfil-cliente5 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente5 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.perfil-cliente5 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.perfil-cliente5 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente5 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.perfil-cliente5 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.perfil-cliente5 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.perfil-cliente5 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.perfil-cliente5 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.perfil-cliente5 .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.perfil-cliente5 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.perfil-cliente5 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.perfil-cliente5 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-cliente5 .cart-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 347px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55px;
+  transform: rotate(-180deg);
+  width: 24px;
+}
+
+.perfil-cliente5 .vector-39-pu1fjz {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-180deg);
+  width: 24px;
+}
+
+.perfil-cliente5 .ellipse-36-pu1fjz {
+  background-color: transparent;
+  border-radius: 2.01px;
+  height: 4px;
+  left: 6px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.perfil-cliente5 .ellipse-37-pu1fjz {
+  background-color: transparent;
+  border-radius: 2.01px;
+  height: 4px;
+  left: 18px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.perfil-cliente5 .cliente-C61RwL {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 301px;
+  width: 390px;
+}
+
+.perfil-cliente5 .rectangle-1335-lVEd5U {
+  background-color: var(--white);
+  height: 51px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente5 .iconly-bold-category-lVEd5U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.perfil-cliente5 .category-k8NVxp {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 20px;
+}
+
+.perfil-cliente5 .category-XcJf8x {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 20px;
+}
+
+.perfil-cliente5 .solid-general-shopping-bag-lVEd5U {
+  background-color: transparent;
+  height: 29px;
+  left: 310px;
+  position: absolute;
+  top: 8px;
+  width: 29px;
+}
+
+.perfil-cliente5 .vector-9-lVEd5U {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 50px;
+  width: 390px;
+}
+
+.perfil-cliente5 .vector-10-lVEd5U {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.perfil-cliente5 .iconly-bold-heart-lVEd5U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  left: 183px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.perfil-cliente5 .heart-LjJtgy {
+  background-color: transparent;
+  height: 19px;
+  left: 2px;
+  position: relative;
+  top: 3px;
+  width: 20px;
+}
+
+.perfil-cliente5 .heart-zcSv2Y {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente5 .frame-84-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.perfil-cliente5 .frame-84-C61RwL {
+  background-color: transparent;
+  height: 418px;
+  left: 0px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 351px;
+  width: 389px;
+}
+
+.perfil-cliente5 .mis-pedidos-activos-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 459px;
+  width: auto;
+}
+
+.perfil-cliente5 .rectangle-1334-ngE2AU {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  height: 78px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 492px;
+  width: 346px;
+}
+
+.perfil-cliente5 .rectangle-1335-ngE2AU {
+  background-color: var(--white);
+  border: 0.5px solid var(--gray-icon);
+  border-radius: 7.5px;
+  height: 44px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 581px;
+  width: 346px;
+}
+
+.perfil-cliente5 .mooitienda-ngE2AU {
+  background-color: transparent;
+  color: var(--osc-intermedio);
+  font-family: var(--font-family-inter);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 512px;
+  width: 262px;
+}
+
+.perfil-cliente5 .group-260-ngE2AU {
+  background-color: transparent;
+  height: 17px;
+  left: 291px;
+  position: absolute;
+  top: 546px;
+  width: 74px;
+}
+
+.perfil-cliente5 .total-88000-70Obij {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 72px;
+}
+
+.perfil-cliente5 .ver-historial-completo-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 595px;
+  white-space: nowrap;
+  width: 217px;
+}
+
+.perfil-cliente5 .x31032022-910am-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: 545px;
+  width: 129px;
+}
+
+.perfil-cliente5 .ellipse-85-ngE2AU {
+  background-color: #030200;
+  border-radius: 26.5px;
+  height: 53px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 505px;
+  width: 53px;
+}
+
+.perfil-cliente5 .image-8-ngE2AU {
+  background-color: transparent;
+  height: 1px;
+  left: 60px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 531px;
+  width: 1px;
+}
+
+.perfil-cliente5 .x3-artculos-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 528px;
+  white-space: nowrap;
+  width: 364px;
+}
+
+.perfil-cliente5 .pendiente-ngE2AU {
+  background-color: transparent;
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 101px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  white-space: nowrap;
+  width: 364px;
+}
+
+.perfil-cliente5 .arrow-6-ngE2AU {
+  background-color: transparent;
+  height: 1px;
+  left: 341px;
+  position: absolute;
+  top: 603px;
+  width: 1px;
+}
+
+.perfil-cliente5 .mis-premios-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 302px;
+  width: auto;
+}
+
+.perfil-cliente5 .ver-tienda-ngE2AU {
+  background-color: transparent;
+  color: var(--gray-icon);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 189px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 114px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.perfil-cliente5 .mis-stickers-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: auto;
+}
+
+.perfil-cliente5 .arrow-5-ngE2AU {
+  background-color: transparent;
+  height: 15px;
+  left: 200px;
+  position: absolute;
+  top: 74px;
+  width: 24px;
+}
+
+.perfil-cliente5 .rectangle-1327-ngE2AU {
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 60px;
+  left: 183px;
+  position: absolute;
+  top: 52px;
+  width: 60px;
+}
+
+.perfil-cliente5 .rectangle-1330-ngE2AU {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 26px;
+  position: absolute;
+  top: 52px;
+  width: 60px;
+}
+
+.perfil-cliente5 .x500-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 114px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.perfil-cliente5 .x12000-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 114px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.perfil-cliente5 .ellipse-80-ngE2AU {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 95px;
+  width: 22px;
+}
+
+.perfil-cliente5 .x2-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 80px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: auto;
+}
+
+.perfil-cliente5 .rectangle-1326-ngE2AU {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 103px;
+  position: absolute;
+  top: 52px;
+  width: 60px;
+}
+
+.perfil-cliente5 .ellipse-81-ngE2AU {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 152px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 95px;
+  width: 22px;
+}
+
+.perfil-cliente5 .x1-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 98px;
+  width: auto;
+}
+
+.perfil-cliente5 .rectangle-46-ngE2AU {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  height: 110px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 177px;
+  width: 346px;
+}
+
+.perfil-cliente5 .rectangle-1331-ngE2AU {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  height: 110px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 333px;
+  width: 346px;
+}
+
+.perfil-cliente5 .mis-cupones-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: auto;
+}
+
+.perfil-cliente5 .group-258-ngE2AU {
+  background-color: transparent;
+  height: 22px;
+  left: 128px;
+  position: absolute;
+  top: 256px;
+  width: 85px;
+}
+
+.perfil-cliente5 .rectangle-1324-fuOcyK {
+  background-color: var(--orange);
+  border-radius: 7px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.perfil-cliente5 .x10000-fuOcyK {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  width: 72px;
+}
+
+.perfil-cliente5 .en-srsly-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 227px;
+  white-space: nowrap;
+  width: 217px;
+}
+
+.perfil-cliente5 .span0-GMsPvR {
+}
+
+.perfil-cliente5 .span1-GMsPvR {
+}
+
+.perfil-cliente5 .descuento-en-camisetas-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 207px;
+  width: 262px;
+}
+
+.perfil-cliente5 .en-ketofoodscali-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: 217px;
+}
+
+.perfil-cliente5 .span0-vQQ5fu {
+}
+
+.perfil-cliente5 .span1-vQQ5fu {
+}
+
+.perfil-cliente5 .rectangle-8-ngE2AU {
+  background-color: transparent;
+  height: 93px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 185px;
+  width: 80px;
+}
+
+.perfil-cliente5 .vlido-hasta-el-31052022-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: right;
+  top: 187px;
+  width: 129px;
+}
+
+.perfil-cliente5 .vlido-hasta-el-31052022-w2Dc54 {
+  background-color: transparent;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: right;
+  top: 344px;
+  width: 129px;
+}
+
+.perfil-cliente5 .image-7-ngE2AU {
+  background-color: transparent;
+  height: 76px;
+  left: 35px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 350px;
+  width: 80px;
+}
+
+.perfil-cliente5 .rectangle-ngE2AU {
+  background-color: transparent;
+  height: 28px;
+  left: 87px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 340px;
+  width: 28px;
+}
+
+.perfil-cliente5 .rectangle-1333-ngE2AU {
+  background-color: var(--amarillo);
+  border-radius: 12.83px;
+  height: 16px;
+  left: 129px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 346px;
+  width: 68px;
+}
+
+.perfil-cliente5 .cliente-amix-ngE2AU {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 8.6px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 348px;
+  width: auto;
+}
+
+.perfil-cliente5 .group-257-ngE2AU {
+  background-color: transparent;
+  height: 16px;
+  left: 128px;
+  position: absolute;
+  top: 187px;
+  width: 78px;
+}
+
+.perfil-cliente5 .rectangle-1334-KJHhfn {
+  background-color: var(--cielo);
+  border-radius: 12.79px;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.perfil-cliente5 .cliente-bestie-KJHhfn {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 8.5px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  width: auto;
+}
+
+.perfil-cliente5 .image00007-ngE2AU {
+  background-color: transparent;
+  height: 64px;
+  left: 113px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+  width: 42px;
+}
+
+.perfil-cliente5 .image00003-ngE2AU {
+  background-color: transparent;
+  height: 45px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 47px;
+}
+
+.perfil-cliente5 .te-has-ganado-una-ngE2AU {
+  background-color: transparent;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 367px;
+  width: 262px;
+}
+
+.perfil-cliente5 .granola-de-frutos-rojos-ngE2AU {
+  background-color: transparent;
+  color: var(--amarillo);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 384px;
+  width: 262px;
+}
+
+.perfil-cliente5 .nav-cliente-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}
+
+.perfil-cliente5 .iconly-bold-setting-VMr6Om {
+  background-color: transparent;
+  height: 23px;
+  left: 338px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 254px;
+  width: 24px;
+}
+
+.perfil-cliente5 .setting-jHSh9P {
+  background-color: transparent;
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 19px;
+}
+
+.perfil-cliente5 .setting-nIPxTP {
+  background-color: transparent;
+  height: 20px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 19px;
+}
+
+.perfil-cliente5 .rectangle-1327-C61RwL {
+  background-color: transparent;
+  border-radius: 7.5px;
+  height: 38px;
+  left: 329px;
+  position: absolute;
+  top: 247px;
+  width: 42px;
+}

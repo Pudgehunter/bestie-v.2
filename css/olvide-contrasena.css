@@ -1,0 +1,104 @@
+/* screen - olvide-contrasena */
+
+.olvide-contrasena {
+  background-color: var(--cielo);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.olvide-contrasena .bestie-C61RwL {
+  background-color: transparent;
+  height: 74px;
+  left: 84px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 119px;
+  width: 221px;
+}
+
+.olvide-contrasena .line-13-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 70px;
+  position: absolute;
+  top: 378px;
+  width: 244px;
+}
+
+.olvide-contrasena .correo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 352px;
+  width: 221px;
+}
+
+.olvide-contrasena .olvidaste-tu-contrasea-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 304px;
+  width: 221px;
+}
+
+.olvide-contrasena .escribe-tu-correo-pa-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 454px;
+  width: 250px;
+}
+
+.olvide-contrasena .group-261-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 114px;
+  position: absolute;
+  top: 572px;
+  width: 163px;
+}
+
+.olvide-contrasena .rectangle-6-FD978N {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.olvide-contrasena .enviar-FD978N {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}

@@ -1,0 +1,333 @@
+/* screen - pagos-pendientes11 */
+
+.pagos-pendientes11 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.pagos-pendientes11 .ellipse-101-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 32.5px;
+  cursor: pointer;
+  height: 65px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 243px;
+  width: 65px;
+}
+
+.pagos-pendientes11 .ellipse-102-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 32.5px;
+  cursor: pointer;
+  height: 65px;
+  left: 233px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 243px;
+  width: 65px;
+}
+
+.pagos-pendientes11 .pagos-pendientes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.pagos-pendientes11 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.pagos-pendientes11 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.pagos-pendientes11 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.pagos-pendientes11 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.pagos-pendientes11 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.pagos-pendientes11 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.pagos-pendientes11 .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.pagos-pendientes11 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.pagos-pendientes11 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.pagos-pendientes11 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.pagos-pendientes11 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.pagos-pendientes11 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.pagos-pendientes11 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.pagos-pendientes11 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagos-pendientes11 .como-emprendedor-debes-pagarle-a-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.pagos-pendientes11 .proveedores-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 92px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 318px;
+  width: 68px;
+}
+
+.pagos-pendientes11 .empleados-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 231px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 318px;
+  width: 68px;
+}
+
+.pagos-pendientes11 .group-341-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 114px;
+  position: absolute;
+  top: 263px;
+  width: 24px;
+}
+
+.pagos-pendientes11 .rectangle-1406-efqkcZ {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 9px;
+  left: 0px;
+  position: absolute;
+  top: 16px;
+  width: 5px;
+}
+
+.pagos-pendientes11 .vector-133-efqkcZ {
+  background-color: transparent;
+  height: 9px;
+  left: 3px;
+  position: absolute;
+  top: 15px;
+  width: 22px;
+}
+
+.pagos-pendientes11 .group-343-efqkcZ {
+  background-color: transparent;
+  height: 14px;
+  left: 8px;
+  position: absolute;
+  top: -0px;
+  width: 13px;
+}
+
+.pagos-pendientes11 .group-344-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 238px;
+  position: absolute;
+  top: 261px;
+  width: 53px;
+}
+
+.pagos-pendientes11 .icon-user-n3jUaD {
+  background-color: transparent;
+  height: 24px;
+  left: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+
+.pagos-pendientes11 .icon-user-Hc8Hn7 {
+  background-color: transparent;
+  height: 24px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 24px;
+}
+
+.pagos-pendientes11 .icon-user-toHM2V {
+  background-color: transparent;
+  height: 24px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 24px;
+}
+
+.pagos-pendientes11 .nav-emprendimiento-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}
+
+.pagos-pendientes11 .back-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 7px;
+}
+
+.pagos-pendientes11 .vector-7WGuVo {
+  background-color: transparent;
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: -2px;
+  width: 9px;
+}

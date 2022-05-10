@@ -1,0 +1,416 @@
+/* screen - producto-vista-cliente-2 */
+
+.producto-vista-cliente-2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.producto-vista-cliente-2 .group-272-C61RwL {
+  background-color: transparent;
+  height: 152px;
+  left: -12px;
+  position: absolute;
+  top: 0px;
+  width: 417px;
+}
+
+.producto-vista-cliente-2 .rectangle-31-VBylhg {
+  background-color: transparent;
+  height: 152px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.producto-vista-cliente-2 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.producto-vista-cliente-2 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.producto-vista-cliente-2 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.producto-vista-cliente-2 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.producto-vista-cliente-2 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.producto-vista-cliente-2 .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.producto-vista-cliente-2 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.producto-vista-cliente-2 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.producto-vista-cliente-2 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.producto-vista-cliente-2 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.producto-vista-cliente-2 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.producto-vista-cliente-2 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.producto-vista-cliente-2 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.producto-vista-cliente-2 .anillo-curvy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 316px;
+}
+
+.producto-vista-cliente-2 .cop-45000-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 577px;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.producto-vista-cliente-2 .anillo-de-plata-ajus-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  width: 316px;
+}
+
+.producto-vista-cliente-2 .group-230-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 28px;
+  position: absolute;
+  top: 633px;
+  width: 334px;
+}
+
+.producto-vista-cliente-2 .rectangle-6-PdN6Mn {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.producto-vista-cliente-2 .enviar-PdN6Mn {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.producto-vista-cliente-2 .group-275-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 28px;
+  position: absolute;
+  top: 681px;
+  width: 334px;
+}
+
+.producto-vista-cliente-2 .rectangle-6-rAUMjq {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 334px;
+}
+
+.producto-vista-cliente-2 .enviar-rAUMjq {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 289px;
+}
+
+.producto-vista-cliente-2 .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 179px;
+  width: 9px;
+}
+
+.producto-vista-cliente-2 .productos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.producto-vista-cliente-2 .we-are-caotic-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 67px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.producto-vista-cliente-2 .somos-una-empresa-su-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 101px;
+  width: 301px;
+}
+
+.producto-vista-cliente-2 .cart-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 338px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 175px;
+  width: 24px;
+}
+
+.producto-vista-cliente-2 .vector-39-pu1fjz {
+  background-color: transparent;
+  height: 18px;
+  left: -0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.producto-vista-cliente-2 .ellipse-36-pu1fjz {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 7px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.producto-vista-cliente-2 .ellipse-37-pu1fjz {
+  background-color: transparent;
+  border-radius: 2.02px;
+  height: 4px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  width: 4px;
+}
+
+.producto-vista-cliente-2 .frame-83-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.producto-vista-cliente-2 .frame-83-C61RwL {
+  background-color: transparent;
+  height: 280px;
+  left: 18px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 209px;
+  width: 372px;
+}
+
+.producto-vista-cliente-2 .group-274-jVOaIT {
+  background-color: transparent;
+  height: 260px;
+  left: 280px;
+  position: absolute;
+  top: 8px;
+  width: 260px;
+}
+
+.producto-vista-cliente-2 .rectangle-1338-lSsxaO {
+  background-color: transparent;
+  height: 260px;
+  left: 84px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 92px;
+}
+
+.producto-vista-cliente-2 .rectangle-1342-jVOaIT {
+  background-color: transparent;
+  height: 260px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 261px;
+}
+
+.producto-vista-cliente-2 .nav-cliente-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 753px;
+  width: 390px;
+}

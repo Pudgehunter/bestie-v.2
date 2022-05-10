@@ -1,0 +1,343 @@
+/* screen - bolsillos3 */
+
+.bolsillos3 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.bolsillos3 .rectangle-1325-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 58px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 177px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.bolsillos3 .group-119-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 32px;
+  position: absolute;
+  top: 108px;
+  width: 23px;
+}
+
+.bolsillos3 .group-98-6O7KbK {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+
+.bolsillos3 .line-10-4xipvn {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.bolsillos3 .line-11-4xipvn {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.bolsillos3 .line-12-6O7KbK {
+  background-color: transparent;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 21px;
+}
+
+.bolsillos3 .bolsillos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  width: auto;
+}
+
+.bolsillos3 .ahorro-previo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  width: 93px;
+}
+
+.bolsillos3 .viajes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 253px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.bolsillos3 .casa-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 551px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.bolsillos3 .nav-cliente-C61RwL {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 755px;
+  width: 390px;
+}
+
+.bolsillos3 .image-21-C61RwL {
+  background-color: transparent;
+  height: 99px;
+  left: 55px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 231px;
+  width: 99px;
+}
+
+.bolsillos3 .image-22-C61RwL {
+  background-color: transparent;
+  height: 99px;
+  left: 250px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 231px;
+  width: 99px;
+}
+
+.bolsillos3 .image-23-C61RwL {
+  background-color: transparent;
+  height: 99px;
+  left: 55px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 429px;
+  width: 99px;
+}
+
+.bolsillos3 .group-232-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 64px;
+  position: absolute;
+  top: 696px;
+  width: 259px;
+}
+
+.bolsillos3 .rectangle-6-5SfYAT {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.bolsillos3 .enviar-5SfYAT {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.bolsillos3 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.bolsillos3 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.bolsillos3 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.bolsillos3 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.bolsillos3 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.bolsillos3 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.bolsillos3 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.bolsillos3 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.bolsillos3 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.bolsillos3 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.bolsillos3 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.bolsillos3 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.bolsillos3 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.bolsillos3 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

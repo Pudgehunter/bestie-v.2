@@ -1,0 +1,521 @@
+/* screen - cliente-emprendedor */
+
+.cliente-emprendedor {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.cliente-emprendedor .rectangle-710-C61RwL {
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.cliente-emprendedor .outline-interface-caret-left-C61RwL {
+  background-color: transparent;
+  height: 32px;
+  left: 10px;
+  position: absolute;
+  top: 64px;
+  width: 32px;
+}
+
+.cliente-emprendedor .ellipse-6-C61RwL {
+  background-color: var(--mist-gray);
+  border-radius: 23px;
+  height: 46px;
+  left: -63px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 46px;
+}
+
+.cliente-emprendedor .ellipse-7-C61RwL {
+  background-color: var(--mist-gray);
+  border-radius: 23px;
+  height: 46px;
+  left: 407px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 46px;
+}
+
+.cliente-emprendedor .rectangle-349-C61RwL {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 77px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 140px;
+  width: 238px;
+}
+
+.cliente-emprendedor .rectangle-351-C61RwL {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 125px;
+  left: 21px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 254px;
+  width: 238px;
+}
+
+.cliente-emprendedor .rectangle-711-C61RwL {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 107px;
+  left: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 480px;
+  width: 238px;
+}
+
+.cliente-emprendedor .pet-home-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  width: 124px;
+}
+
+.cliente-emprendedor .online-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 100;
+  height: auto;
+  left: 85px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  width: auto;
+}
+
+.cliente-emprendedor .x1023-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  width: auto;
+}
+
+.cliente-emprendedor .ellipse-17-C61RwL {
+  background-color: var(--mist-gray);
+  border-radius: 15.5px;
+  height: 31px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 64px;
+  width: 31px;
+}
+
+.cliente-emprendedor .vector-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 345px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 69px;
+  width: 24px;
+}
+
+.cliente-emprendedor .por-favor-seleccione-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 265px;
+  width: 226px;
+}
+
+.cliente-emprendedor .seleccione-la-catego-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  width: 226px;
+}
+
+.cliente-emprendedor .rectangle-1-C61RwL {
+  background-color: var(--white);
+  border-radius: 30px;
+  height: 38px;
+  left: 44px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 787px;
+  width: 323px;
+}
+
+.cliente-emprendedor .group-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 322px;
+  position: absolute;
+  top: 795px;
+  width: 24px;
+}
+
+.cliente-emprendedor .group-314-C61RwL {
+  background-color: transparent;
+  height: 19px;
+  left: 18px;
+  position: absolute;
+  top: 796px;
+  width: 19px;
+}
+
+.cliente-emprendedor .group-348-C61RwL {
+  background-color: transparent;
+  height: 31px;
+  left: 45px;
+  position: absolute;
+  top: 64px;
+  width: 33px;
+}
+
+.cliente-emprendedor .rectangle-18-Z3HEQV {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 31px;
+}
+
+.cliente-emprendedor .mascota-feliz-Z3HEQV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jaldi);
+  font-size: 4.6px;
+  font-style: normal;
+  font-weight: 700;
+  height: 8px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: auto;
+}
+
+.cliente-emprendedor .bienvenido-a-la-fami-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 152px;
+  width: 248px;
+}
+
+.cliente-emprendedor .x1024-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 384px;
+  width: auto;
+}
+
+.cliente-emprendedor .x1026-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 592px;
+  width: auto;
+}
+
+.cliente-emprendedor .rectangle-352-C61RwL {
+  background-color: transparent;
+  height: 37px;
+  left: 315px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 416px;
+  width: 55px;
+}
+
+.cliente-emprendedor .rectangle-712-C61RwL {
+  background-color: transparent;
+  height: 37px;
+  left: 314px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 609px;
+  width: 55px;
+}
+
+.cliente-emprendedor .x1025-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 456px;
+  width: auto;
+}
+
+.cliente-emprendedor .x1027-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 325px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 649px;
+  width: auto;
+}
+
+.cliente-emprendedor .x2-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 336px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 425px;
+  width: auto;
+}
+
+.cliente-emprendedor .x1-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 335px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 618px;
+  width: auto;
+}
+
+.cliente-emprendedor .rectangle-354-C61RwL {
+  background-color: var(--cielo-claro);
+  border-radius: 20px 20px 20px 0px;
+  height: 64px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 664px;
+  width: 238px;
+}
+
+.cliente-emprendedor .x1028-pm-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 739px;
+  width: auto;
+}
+
+.cliente-emprendedor .en-seguida-le-daremo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 677px;
+  width: 218px;
+}
+
+.cliente-emprendedor .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.cliente-emprendedor .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.cliente-emprendedor .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.cliente-emprendedor .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.cliente-emprendedor .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.cliente-emprendedor .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.cliente-emprendedor .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.cliente-emprendedor .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.cliente-emprendedor .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.cliente-emprendedor .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.cliente-emprendedor .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.cliente-emprendedor .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.cliente-emprendedor .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

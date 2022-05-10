@@ -1,0 +1,440 @@
+/* screen - crear-proyecto-emprendedor4 */
+
+.crear-proyecto-emprendedor4 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor4 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor4 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.crear-proyecto-emprendedor4 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.crear-proyecto-emprendedor4 .icon-bar_chart-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.crear-proyecto-emprendedor4 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor4 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor4 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.crear-proyecto-emprendedor4 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.crear-proyecto-emprendedor4 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.crear-proyecto-emprendedor4 .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor4 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.crear-proyecto-emprendedor4 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.crear-proyecto-emprendedor4 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor4 .proyectos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor4 .editar-fecha-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor4 .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor4 .recuerda-que-tienes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 148px;
+  width: 309px;
+}
+
+.crear-proyecto-emprendedor4 .span0-k5E40h {
+}
+
+.crear-proyecto-emprendedor4 .span1-k5E40h {
+}
+
+.crear-proyecto-emprendedor4 .span2-k5E40h {
+}
+
+.crear-proyecto-emprendedor4 .fecha-de-finalizacin-del-proyecto-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 282px;
+  width: 309px;
+}
+
+.crear-proyecto-emprendedor4 .establecer-nueva-fecha-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 359px;
+  width: 309px;
+}
+
+.crear-proyecto-emprendedor4 .x22-05-2022-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 313px;
+  width: 118px;
+}
+
+.crear-proyecto-emprendedor4 .da-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 390px;
+  width: 28px;
+}
+
+.crear-proyecto-emprendedor4 .mes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 390px;
+  width: 28px;
+}
+
+.crear-proyecto-emprendedor4 .x-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 424px;
+  width: 15px;
+}
+
+.crear-proyecto-emprendedor4 .rectangle-1310-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 40px;
+  left: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 413px;
+  width: 40px;
+}
+
+.crear-proyecto-emprendedor4 .rectangle-1311-C61RwL {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 40px;
+  left: 109px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 413px;
+  width: 40px;
+}
+
+.crear-proyecto-emprendedor4 .x26-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 15px;
+  left: 49px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 424px;
+  width: 21px;
+}
+
+.crear-proyecto-emprendedor4 .x26-C61RwL::placeholder {
+  color: #14142a99;
+}
+
+.crear-proyecto-emprendedor4 .x05-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 15px;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 424px;
+  width: 21px;
+}
+
+.crear-proyecto-emprendedor4 .x05-C61RwL::placeholder {
+  color: #14142a99;
+}
+
+.crear-proyecto-emprendedor4 .group-317-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 65px;
+  position: absolute;
+  top: 501px;
+  width: 259px;
+}
+
+.crear-proyecto-emprendedor4 .rectangle-6-lqrL3p {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.crear-proyecto-emprendedor4 .enviar-lqrL3p {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.crear-proyecto-emprendedor4 .nav-emprendimiento-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor4 .rectangle-1463-VNtfJe {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor4 .union-VNtfJe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.crear-proyecto-emprendedor4 .union-t9QcV5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.crear-proyecto-emprendedor4 .union-pIWv0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.crear-proyecto-emprendedor4 .union-rK7kDd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

@@ -1,0 +1,521 @@
+/* screen - pagos-pendientes9 */
+
+.pagos-pendientes9 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.pagos-pendientes9 .pagos-pendientes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.pagos-pendientes9 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.pagos-pendientes9 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.pagos-pendientes9 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.pagos-pendientes9 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.pagos-pendientes9 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.pagos-pendientes9 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.pagos-pendientes9 .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.pagos-pendientes9 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.pagos-pendientes9 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.pagos-pendientes9 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.pagos-pendientes9 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.pagos-pendientes9 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.pagos-pendientes9 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.pagos-pendientes9 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagos-pendientes9 .tus-proveedores-son-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.pagos-pendientes9 .copacking-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes9 .proveedores-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 290px;
+  width: 297px;
+}
+
+.pagos-pendientes9 .mask-group-pMcpB9 {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.pagos-pendientes9 .litografia-pasoancho-editores-pMcpB9 {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes9 .le-debes-105000-pMcpB9 {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes9 .proveedores-VMr6Om {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 377px;
+  width: 297px;
+}
+
+.pagos-pendientes9 .saheima-joyas-o2B5hE {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes9 .le-debes-200000-o2B5hE {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes9 .mask-group-o2B5hE {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.pagos-pendientes9 .proveedores-mzXdH9 {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 203px;
+  width: 297px;
+}
+
+.pagos-pendientes9 .copacking-Uh2fhh {
+  background-color: transparent;
+  height: 25px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes9 .le-debes-100000-Uh2fhh {
+  background-color: transparent;
+  height: 22px;
+  left: 73px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes9 .mask-group-Uh2fhh {
+  background-color: transparent;
+  height: 50px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 50px;
+}
+
+.pagos-pendientes9 .group-346-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 346px;
+  position: absolute;
+  top: 302px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-24-pBvyXN {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-25-pBvyXN {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-26-pBvyXN {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .group-349-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 346px;
+  position: absolute;
+  top: 210px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-24-xA38gD {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-25-xA38gD {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-26-xA38gD {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .group-347-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 346px;
+  position: absolute;
+  top: 388px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-24-SSt6xv {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-25-SSt6xv {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .ellipse-26-SSt6xv {
+  background-color: var(--osc-intermedio);
+  border-radius: 2.02px;
+  height: 4px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20px;
+  width: 4px;
+}
+
+.pagos-pendientes9 .nav-emprendimiento-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}
+
+.pagos-pendientes9 .back-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 7px;
+}
+
+.pagos-pendientes9 .vector-7WGuVo {
+  background-color: transparent;
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: -2px;
+  width: 9px;
+}
+
+.pagos-pendientes9 .group-348-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 188px;
+  position: absolute;
+  top: 696px;
+  width: 163px;
+}
+
+.pagos-pendientes9 .rectangle-6-Z3HEQV {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.pagos-pendientes9 .enviar-Z3HEQV {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}

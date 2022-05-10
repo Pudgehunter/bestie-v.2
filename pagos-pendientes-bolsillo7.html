@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/pagos-pendientes-bolsillo7.css" />
+    <link rel="stylesheet" type="text/css" href="css/pagos-pendientes-bolsillo6.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="pagos-pendientes-bolsillo7" />
+    <div class="container-center-horizontal">
+      <div class="pagos-pendientes-bolsillo7 screen">
+        <div class="pagos-pendientes-bolsillo-C61RwL">
+          <img class="image-22-VPU2Wq" src="" />
+          <a href="pagos-pendientes-bolsillo5.html">
+            <div class="group-232-VPU2Wq">
+              <div class="rectangle-6-RNZzwE"></div>
+              <div class="enviar-RNZzwE valign-text-middle inter-semi-bold-white-14px">Ir a pagar</div>
+            </div></a
+          >
+          <div class="check-VPU2Wq">
+            <div class="ellipse-103-xGOAVP"></div>
+            <img class="check-xGOAVP" src="" />
+          </div>
+          <a href="javascript:ShowOverlay('pagos-pendientes-bolsillo6', 'animate-appear');"
+            ><img class="image-25-VPU2Wq" src="" />
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="overlay-pagos-pendientes-bolsillo6" class="overlay" style="min-height: 844px">
+      <div class="container-center-horizontal">
+        <div class="pagos-pendientes-bolsillo6 screen">
+          <div class="pagos-pendientes-bolsillo-C61RwL">
+            <div class="proveedores-VPU2Wq inter-bold-mulled-wine-14px">PROVEEDORES</div>
+            <div class="empleados-VPU2Wq inter-bold-mulled-wine-14px">EMPLEADOS</div>
+            <div class="deudas-VPU2Wq inter-bold-mulled-wine-14px">DEUDAS</div>
+            <img class="image-22-VPU2Wq" src="" />
+            <img class="image-23-VPU2Wq" src="" />
+            <a href="javascript:ShowOverlay('pagos-pendientes-bolsillo7', 'animate-appear');"
+              ><img class="image-25-VPU2Wq" src="" />
+            </a>
+            <div class="otros-VPU2Wq inter-bold-mulled-wine-14px">OTROS</div>
+            <img class="image-24-VPU2Wq" src="" />
+            <div class="pagos-pendientes-VPU2Wq inter-normal-mirage-14px">Pagos pendientes</div>
+            <img class="rectangle-8-VPU2Wq" src="" />
+            <div class="status-bar-i-phone-13-13-pro-VPU2Wq">
+              <div class="indicators-AzLkox">
+                <div class="elements-signal-DlIV6U"><img class="cellular-connection-2hBpwY" src="" /></div>
+                <div class="elements-connection-DlIV6U"><img class="wifi-65hk8t" src="" /></div>
+                <div class="elements-battery-DlIV6U">
+                  <div class="border-C1IUd1 border-1px-white"></div>
+                  <img class="cap-C1IUd1" src="" />
+                  <div class="capacity-C1IUd1"></div>
+                </div>
+              </div>
+              <div class="mic-cam-AzLkox"></div>
+              <div class="elements-time-AzLkox">
+                <div class="time-nWA686 valign-text-middle sfprotext-normal-white-17px">8:41</div>
+              </div>
+            </div>
+            <div class="selecciona-un-bolsillo-VPU2Wq inter-medium-mirage-16px">Selecciona un bolsillo</div>
+            <div class="nav-emprendimiento-VPU2Wq">
+              <div class="rectangle-1463-vvMdYI"></div>
+              <a href="billetera-emprendedor.html"><img class="union-vvMdYI" src="" /> </a
+              ><a href="home-emprendedor.html"><img class="union-wCZitG" src="" /> </a
+              ><a href="crear-proyecto-emprendedor-3.html"><img class="union-MWXxPb" src="" /> </a
+              ><a href="perfil-emprendedor.html"><img class="union-8vLO6R" src="" /> </a>
+            </div>
+            <div class="back-VPU2Wq"><img class="vector-UHTqlk" src="" /></div>
+            <div class="group-232-VPU2Wq">
+              <div class="rectangle-6-RNZzwE"></div>
+              <div class="enviar-RNZzwE valign-text-middle inter-semi-bold-white-14px">Ir a pagar</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-pagos-pendientes-bolsillo6";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-pagos-pendientes-bolsillo6";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("pagos-pendientes-bolsillo6");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("pagos-pendientes-bolsillo6", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+    </script>
+  </body>
+</html>

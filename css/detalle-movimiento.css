@@ -1,0 +1,324 @@
+/* screen - detalle-movimiento */
+
+.detalle-movimiento {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.detalle-movimiento .rectangle-58-C61RwL {
+  background-color: var(--cielo-claro);
+  border-radius: 17px;
+  height: 370px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 344px;
+  width: 318px;
+}
+
+.detalle-movimiento .ramses-agudelo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 374px;
+  width: auto;
+}
+
+.detalle-movimiento .x3042022-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 677px;
+  width: auto;
+}
+
+.detalle-movimiento .x100000-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 604px;
+  width: auto;
+}
+
+.detalle-movimiento .te-envio-dinero-por-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 449px;
+  width: 251px;
+}
+
+.detalle-movimiento .prestamo-entre-besties-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 533px;
+  width: 251px;
+}
+
+.detalle-movimiento .de-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 354px;
+  width: 18px;
+}
+
+.detalle-movimiento .mensaje-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 414px;
+  width: 48px;
+}
+
+.detalle-movimiento .debido-a-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  width: 48px;
+}
+
+.detalle-movimiento .valor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 571px;
+  width: 48px;
+}
+
+.detalle-movimiento .fecha-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 646px;
+  width: 48px;
+}
+
+.detalle-movimiento .rectangle-1325-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 58px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 177px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -65px;
+  width: 390px;
+}
+
+.detalle-movimiento .group-119-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 32px;
+  position: absolute;
+  top: 44px;
+  width: 23px;
+}
+
+.detalle-movimiento .group-98-6O7KbK {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+
+.detalle-movimiento .line-10-4xipvn {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.detalle-movimiento .line-11-4xipvn {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.detalle-movimiento .line-12-6O7KbK {
+  background-color: transparent;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 21px;
+}
+
+.detalle-movimiento .detalles-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: auto;
+}
+
+.detalle-movimiento .intersect-C61RwL {
+  background-color: transparent;
+  height: 169px;
+  left: 35px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 145px;
+  width: 323px;
+}
+
+.detalle-movimiento .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.detalle-movimiento .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.detalle-movimiento .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.detalle-movimiento .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.detalle-movimiento .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.detalle-movimiento .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.detalle-movimiento .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

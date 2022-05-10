@@ -1,0 +1,467 @@
+/* screen - proyectos-beneficios */
+
+.proyectos-beneficios {
+  background-color: transparent;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.proyectos-beneficios .proyectos-beneficios-C61RwL {
+  background-color: transparent;
+  height: 844px;
+  left: calc(50vw - 195.0px);
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 422.0px);
+  width: 390px;
+}
+
+.proyectos-beneficios .rectangle-1315-nktko3 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.proyectos-beneficios .rectangle-1389-nktko3 {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--mist-gray-2);
+  height: 844px;
+  left: -5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 399px;
+}
+
+.proyectos-beneficios .confirmacion-donar-proyectos-nktko3 {
+  background-color: transparent;
+  height: 345px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 256px;
+  width: 336px;
+}
+
+.proyectos-beneficios .group-315-c6YlA9 {
+  background-color: transparent;
+  height: 345px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 346px;
+}
+
+.proyectos-beneficios .line-14-uwaI2s {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.proyectos-beneficios .contrasea-uwaI2s {
+  background-color: transparent;
+  color: #ada8a8;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 118px;
+  width: 134px;
+}
+
+.proyectos-beneficios .olvide-mi-contrasea-uwaI2s {
+  background-color: transparent;
+  color: var(--cielo);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  width: 169px;
+}
+
+.proyectos-beneficios .vector-40-uwaI2s {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 119px;
+}
+
+.proyectos-beneficios .group-261-uwaI2s {
+  background-color: transparent;
+  height: 38px;
+  left: 74px;
+  position: absolute;
+  top: 219px;
+  width: 163px;
+}
+
+.proyectos-beneficios .rectangle-6-Z9hxgq {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.proyectos-beneficios .enviar-Z9hxgq {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.proyectos-beneficios .group-260-uwaI2s {
+  background-color: transparent;
+  height: 38px;
+  left: 74px;
+  position: absolute;
+  top: 284px;
+  width: 163px;
+}
+
+.proyectos-beneficios .rectangle-6-c5k4aa {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.proyectos-beneficios .enviar-c5k4aa {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 141px;
+}
+
+.proyectos-beneficios .rectangle-1316-uwaI2s {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 345px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 336px;
+}
+
+.proyectos-beneficios .ests-seguro-uwaI2s {
+  background-color: transparent;
+  color: var(--cielo);
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 279px;
+}
+
+.proyectos-beneficios .estos-son-los-benefi-uwaI2s {
+  background-color: transparent;
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 50px;
+  width: 279px;
+}
+
+.proyectos-beneficios .rectangle-1321-uwaI2s {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 254px;
+  width: 269px;
+}
+
+.proyectos-beneficios .confirmar-uwaI2s {
+  background-color: transparent;
+  height: 44px;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 251px;
+  width: 279px;
+}
+
+.proyectos-beneficios .component-54-nktko3 {
+  background-color: transparent;
+  height: 135px;
+  left: 82px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 358px;
+  width: 224px;
+}
+
+.proyectos-beneficios .component-21-iuyIKG {
+  background-color: transparent;
+  height: 135px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 224px;
+}
+
+.proyectos-beneficios .group-380-1Nj5xa {
+  background-color: transparent;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 228px;
+}
+
+.proyectos-beneficios .rectangle-1446-94R207 {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  height: 110px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 224px;
+}
+
+.proyectos-beneficios .x5-descuento-en-capuccino-94R207 {
+  background-color: transparent;
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: 94px;
+}
+
+.proyectos-beneficios .group-378-94R207 {
+  background-color: transparent;
+  height: 22px;
+  left: 102px;
+  position: absolute;
+  top: 79px;
+  width: 85px;
+}
+
+.proyectos-beneficios .rectangle-1324-Z29voC {
+  background-color: var(--orange);
+  border-radius: 7px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.proyectos-beneficios .x1000-Z29voC {
+  background-color: transparent;
+  height: auto;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  width: 72px;
+}
+
+.proyectos-beneficios .en-cohii-94R207 {
+  background-color: transparent;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 61px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.proyectos-beneficios .span0-QxnJpn {
+}
+
+.proyectos-beneficios .span1-QxnJpn {
+}
+
+.proyectos-beneficios .rectangle-1447-94R207 {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.proyectos-beneficios .group-379-94R207 {
+  background-color: transparent;
+  height: 16px;
+  left: 102px;
+  position: absolute;
+  top: 10px;
+  width: 78px;
+}
+
+.proyectos-beneficios .rectangle-1334-sRuyAb {
+  background-color: var(--limon);
+  border-radius: 12.79px;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 76px;
+}
+
+.proyectos-beneficios .cliente-parcero-sRuyAb {
+  background-color: transparent;
+  color: var(--osc-intermedio);
+  font-family: var(--font-family-inter);
+  font-size: 8.5px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  width: auto;
+}
+
+.proyectos-beneficios .ellipse-93-1Nj5xa {
+  background-color: var(--mist-gray);
+  border-radius: 5px;
+  height: 10px;
+  left: 77px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}
+
+.proyectos-beneficios .ellipse-94-1Nj5xa {
+  background-color: var(--mercury);
+  border-radius: 5px;
+  height: 10px;
+  left: 97px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}
+
+.proyectos-beneficios .ellipse-95-1Nj5xa {
+  background-color: var(--mercury);
+  border-radius: 5px;
+  height: 10px;
+  left: 117px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}
+
+.proyectos-beneficios .ellipse-96-1Nj5xa {
+  background-color: var(--mercury);
+  border-radius: 5px;
+  height: 10px;
+  left: 137px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 125px;
+  width: 10px;
+}
+
+.proyectos-beneficios .vector-nktko3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}

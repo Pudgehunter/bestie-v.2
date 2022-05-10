@@ -1,0 +1,562 @@
+/* screen - pagos-pendientes-11 */
+
+.pagos-pendientes-11 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.pagos-pendientes-11 .pagos-pendientes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.pagos-pendientes-11 .vector-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.pagos-pendientes-11 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.pagos-pendientes-11 .tus-empleados-son-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.pagos-pendientes-11 .mask-group-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 462px;
+  width: 50px;
+}
+
+.pagos-pendientes-11 .mask-group-VMr6Om {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 548px;
+  width: 50px;
+}
+
+.pagos-pendientes-11 .mask-group-mzXdH9 {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 635px;
+  width: 50px;
+}
+
+.pagos-pendientes-11 .mask-group-QxM5SU {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 722px;
+  width: 50px;
+}
+
+.pagos-pendientes-11 .camila-bernal-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 291px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .daniel-patio-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 377px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .eliza-rodriguez-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 464px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .emiliano-castro-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 551px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .manuela-naranjo-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 637px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .oscar-muoz-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 724px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .le-debes-45000-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 313px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .le-debes-30000-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 400px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .le-debes-65000-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 486px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .le-debes-45000-VMr6Om {
+  background-color: transparent;
+  height: 22px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 573px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .le-debes-45000-mzXdH9 {
+  background-color: transparent;
+  height: 22px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 660px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .le-debes-45000-QxM5SU {
+  background-color: transparent;
+  height: 22px;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 746px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .mask-group-2P4qUJ {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 288px;
+  width: 50px;
+}
+
+.pagos-pendientes-11 .mask-group-qr8e7q {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 375px;
+  width: 50px;
+}
+
+.pagos-pendientes-11 .mask-group-J1YQmd {
+  background-color: transparent;
+  height: 50px;
+  left: 30px;
+  position: absolute;
+  top: 202px;
+  width: 50px;
+}
+
+.pagos-pendientes-11 .ana-paredes-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .le-debes-45000-2P4qUJ {
+  background-color: transparent;
+  height: 22px;
+  left: 103px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 226px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.pagos-pendientes-11 .check-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 62px;
+  position: absolute;
+  top: 238px;
+  width: 18px;
+}
+
+.pagos-pendientes-11 .ellipse-103-RFbRpq {
+  background-color: var(--cielo-osc);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.pagos-pendientes-11 .check-RFbRpq {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.pagos-pendientes-11 .check-VMr6Om {
+  background-color: transparent;
+  height: 18px;
+  left: 62px;
+  position: absolute;
+  top: 325px;
+  width: 18px;
+}
+
+.pagos-pendientes-11 .ellipse-103-NAHkAe {
+  background-color: var(--cielo-osc);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.pagos-pendientes-11 .check-NAHkAe {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.pagos-pendientes-11 .check-mzXdH9 {
+  background-color: transparent;
+  height: 18px;
+  left: 62px;
+  position: absolute;
+  top: 498px;
+  width: 18px;
+}
+
+.pagos-pendientes-11 .ellipse-103-Mtx8cZ {
+  background-color: var(--cielo-osc);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.pagos-pendientes-11 .check-Mtx8cZ {
+  background-color: transparent;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.pagos-pendientes-11 .efecto-C61RwL {
+  background-color: transparent;
+  height: 242px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 526px;
+  width: 390px;
+}
+
+.pagos-pendientes-11 .nav-emprendimiento-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}
+
+.pagos-pendientes-11 .group-230-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 194px;
+  position: absolute;
+  top: 703px;
+  width: 171px;
+}
+
+.pagos-pendientes-11 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.pagos-pendientes-11 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.pagos-pendientes-11 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.pagos-pendientes-11 .icon-bar_chart-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.pagos-pendientes-11 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.pagos-pendientes-11 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.pagos-pendientes-11 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.pagos-pendientes-11 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.pagos-pendientes-11 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.pagos-pendientes-11 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.pagos-pendientes-11 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.pagos-pendientes-11 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.pagos-pendientes-11 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}

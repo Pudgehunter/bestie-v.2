@@ -1,0 +1,801 @@
+/* screen - solicitar-credito-2 */
+
+.solicitar-credito-2 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.solicitar-credito-2 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.solicitar-credito-2 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.solicitar-credito-2 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.solicitar-credito-2 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.solicitar-credito-2 .icon-bar_chart-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.solicitar-credito-2 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.solicitar-credito-2 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.solicitar-credito-2 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.solicitar-credito-2 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.solicitar-credito-2 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.solicitar-credito-2 .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.solicitar-credito-2 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.solicitar-credito-2 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.solicitar-credito-2 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.solicitar-credito-2 .status-bar-i-phone-13-13-pro-VMr6Om {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.solicitar-credito-2 .indicators-MLLBeK {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.solicitar-credito-2 .elements-signal-U33hpG {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.solicitar-credito-2 .icon-bar_chart-YQjjZA {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.solicitar-credito-2 .elements-connection-U33hpG {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.solicitar-credito-2 .icon-signal-NdfNId {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.solicitar-credito-2 .elements-battery-U33hpG {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.solicitar-credito-2 .border-RpQHtH {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.solicitar-credito-2 .cap-RpQHtH {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.solicitar-credito-2 .capacity-RpQHtH {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.solicitar-credito-2 .mic-cam-MLLBeK {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.solicitar-credito-2 .elements-time-MLLBeK {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.solicitar-credito-2 .time-cgqMUR {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.solicitar-credito-2 .mi-crdito-C61RwL {
+  background-color: transparent;
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 88px;
+  width: auto;
+}
+
+.solicitar-credito-2 .group-331-C61RwL {
+  background-color: transparent;
+  height: 231px;
+  left: 732px;
+  position: absolute;
+  top: 123px;
+  width: 356px;
+}
+
+.solicitar-credito-2 .group-322-YYsalw {
+  background-color: transparent;
+  height: 231px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 350px;
+}
+
+.solicitar-credito-2 .rectangle-2-56W3CS {
+  background-color: var(--cielo);
+  border-radius: 25px;
+  box-shadow: 2.6602046489715576px 2.6602046489715576px 36.577816009521484px #00000040;
+  height: 231px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 350px;
+}
+
+.solicitar-credito-2 .vector-56W3CS {
+  background-color: transparent;
+  height: 1px;
+  left: 311px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 190px;
+  width: 1px;
+}
+
+.solicitar-credito-2 .image-31-56W3CS {
+  background-color: transparent;
+  height: 1px;
+  left: 292px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.solicitar-credito-2 .jewelry-icesi-YYsalw {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 185px;
+  width: auto;
+}
+
+.solicitar-credito-2 .x5783-5320-4361-6324-YYsalw {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 159px;
+  width: auto;
+}
+
+.solicitar-credito-2 .bestie-bank-YYsalw {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: auto;
+}
+
+.solicitar-credito-2 .monto-a-solicitar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: auto;
+}
+
+.solicitar-credito-2 .cuotas-a-pagar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: auto;
+}
+
+.solicitar-credito-2 .intereses-a-pagar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  width: auto;
+}
+
+.solicitar-credito-2 .rectangle-1400-C61RwL {
+  background-color: transparent;
+  border-radius: 6px;
+  height: 38px;
+  left: 26px;
+  position: absolute;
+  top: 200px;
+  width: 338px;
+}
+
+.solicitar-credito-2 .group-338-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 236px;
+  position: absolute;
+  top: 386px;
+  width: 38px;
+}
+
+.solicitar-credito-2 .group-261-ojnjpf {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 38px;
+}
+
+.solicitar-credito-2 .rectangle-6-Hu7oNE {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.solicitar-credito-2 .enviar-Hu7oNE {
+  background-color: transparent;
+  height: 38px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 33px;
+}
+
+.solicitar-credito-2 .group-332-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 115px;
+  position: absolute;
+  top: 386px;
+  width: 38px;
+}
+
+.solicitar-credito-2 .rectangle-6-bgxjYx {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+
+.solicitar-credito-2 .enviar-bgxjYx {
+  background-color: transparent;
+  height: 38px;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 33px;
+}
+
+.solicitar-credito-2 .x1-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 385px;
+  width: 45px;
+}
+
+.solicitar-credito-2 .x12-C61RwL {
+  background-color: transparent;
+  height: 33px;
+  left: 164px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 512px;
+  width: 62px;
+}
+
+.solicitar-credito-2 .rectangle-1403-C61RwL {
+  background-color: transparent;
+  border-radius: 6px;
+  height: 55px;
+  left: 167px;
+  position: absolute;
+  top: 377px;
+  width: 55px;
+}
+
+.solicitar-credito-2 .esta-deacuerdo-que-s-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 575px;
+  width: 306px;
+}
+
+.solicitar-credito-2 .sabe-usted-que-cada-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 618px;
+  width: 306px;
+}
+
+.solicitar-credito-2 .rectangle-1381-C61RwL {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 576px;
+  width: 16px;
+}
+
+.solicitar-credito-2 .rectangle-1404-C61RwL {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 619px;
+  width: 16px;
+}
+
+.solicitar-credito-2 .group-261-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 27px;
+  position: absolute;
+  top: 682px;
+  width: 337px;
+}
+
+.solicitar-credito-2 .rectangle-6-FD978N {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.solicitar-credito-2 .enviar-FD978N {
+  background-color: transparent;
+  height: 38px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 292px;
+}
+
+.solicitar-credito-2 .vector-132-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 160px;
+  position: absolute;
+  top: 548px;
+  width: 68px;
+}
+
+.solicitar-credito-2 .lmite-crediticio-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 253px;
+  width: auto;
+}
+
+.solicitar-credito-2 .x2000000-de-cop-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 254px;
+  width: auto;
+}
+
+.solicitar-credito-2 .rectangle-1326-C61RwL {
+  background-color: transparent;
+  height: 772px;
+  left: -2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 71px;
+  width: 390px;
+}
+
+.solicitar-credito-2 .group-287-C61RwL {
+  background-color: transparent;
+  height: 428px;
+  left: 28px;
+  position: absolute;
+  top: 206px;
+  width: 333px;
+}
+
+.solicitar-credito-2 .group-102-dxpL0E {
+  background-color: transparent;
+  height: 428px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.solicitar-credito-2 .rectangle-1325-JBujDX {
+  background-color: var(--hint-of-red);
+  border-radius: 10px;
+  height: 428px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.solicitar-credito-2 .group-101-JBujDX {
+  background-color: transparent;
+  height: 181px;
+  left: 36px;
+  position: absolute;
+  top: 195px;
+  width: 264px;
+}
+
+.solicitar-credito-2 .felicitaciones-Iifa4W {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.solicitar-credito-2 .tu-crdito-acaba-de-s-Iifa4W {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  width: 260px;
+}
+
+.solicitar-credito-2 .span0-DB73qi {
+}
+
+.solicitar-credito-2 .span1-DB73qi {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.solicitar-credito-2 .group-100-Iifa4W {
+  background-color: transparent;
+  height: 50px;
+  left: 52px;
+  position: absolute;
+  top: 131px;
+  width: 158px;
+}
+
+.solicitar-credito-2 .rectangle-1324-rAdX1F {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.solicitar-credito-2 .regresar-rAdX1F {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 61px;
+}
+
+.solicitar-credito-2 .rectangle-16-dxpL0E {
+  background-color: transparent;
+  height: 123px;
+  left: 104px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 40px;
+  width: 123px;
+}

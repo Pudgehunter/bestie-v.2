@@ -1,0 +1,491 @@
+/* screen - perfil-cliente-agregar-tarjeta */
+
+.perfil-cliente-agregar-tarjeta {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-1400-C61RwL {
+  background-color: transparent;
+  height: 318px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-1324-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 49px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 625px;
+  width: 327px;
+}
+
+.perfil-cliente-agregar-tarjeta .agregar-tarjeta-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 640px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-tarjeta .group-98-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 32px;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+
+.perfil-cliente-agregar-tarjeta .line-10-royatl {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.perfil-cliente-agregar-tarjeta .line-11-royatl {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.perfil-cliente-agregar-tarjeta .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-tarjeta .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.perfil-cliente-agregar-tarjeta .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.perfil-cliente-agregar-tarjeta .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente-agregar-tarjeta .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.perfil-cliente-agregar-tarjeta .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.perfil-cliente-agregar-tarjeta .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.perfil-cliente-agregar-tarjeta .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.perfil-cliente-agregar-tarjeta .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.perfil-cliente-agregar-tarjeta .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.perfil-cliente-agregar-tarjeta .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.perfil-cliente-agregar-tarjeta .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.perfil-cliente-agregar-tarjeta .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-cliente-agregar-tarjeta .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-1325-C61RwL {
+  background-color: var(--cielo-claro);
+  border-radius: 15px;
+  height: 171px;
+  left: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 99px;
+  width: 278px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-38-C61RwL {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 438px;
+  width: 327px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-1399-C61RwL {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 375px;
+  width: 327px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-39-C61RwL {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 501px;
+  width: 150px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-40-C61RwL {
+  background-color: var(--catskill-white);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 217px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 501px;
+  width: 149px;
+}
+
+.perfil-cliente-agregar-tarjeta .x1234-5678-9012-1234-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 452px;
+  width: 171px;
+}
+
+.perfil-cliente-agregar-tarjeta .juan-prez-a-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 389px;
+  width: 171px;
+}
+
+.perfil-cliente-agregar-tarjeta .x1234-5678-9012-1234-VMr6Om {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 184px;
+  width: 171px;
+}
+
+.perfil-cliente-agregar-tarjeta .mmyy-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 171px;
+}
+
+.perfil-cliente-agregar-tarjeta .x06-28-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  width: 59px;
+}
+
+.perfil-cliente-agregar-tarjeta .x-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 229px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  width: 27px;
+}
+
+.perfil-cliente-agregar-tarjeta .cvv-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 308px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  width: 37px;
+}
+
+.perfil-cliente-agregar-tarjeta .group-288-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 288px;
+  position: absolute;
+  top: 453px;
+  width: 56px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-1398-C61RwL {
+  background-color: var(--limon-claro);
+  border-radius: 5px;
+  height: 24px;
+  left: 76px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 123px;
+  width: 38px;
+}
+
+.perfil-cliente-agregar-tarjeta .datos-de-la-tarjeta-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-tarjeta .nueva-tarjeta-de-crdito-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 115px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-tarjeta .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-tarjeta .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-tarjeta .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.perfil-cliente-agregar-tarjeta .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.perfil-cliente-agregar-tarjeta .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-agregar-tarjeta .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-agregar-tarjeta .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

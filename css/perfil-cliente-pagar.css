@@ -1,0 +1,721 @@
+/* screen - perfil-cliente-pagar */
+
+.perfil-cliente-pagar {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.perfil-cliente-pagar .rectangle-1325-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 40px;
+  box-shadow: 0px 9px 15px #a7b2bb6e;
+  height: 240px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -65px;
+  width: 390px;
+}
+
+.perfil-cliente-pagar .total-a-pagar-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 57px;
+  width: auto;
+}
+
+.perfil-cliente-pagar .x180000-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  width: auto;
+}
+
+.perfil-cliente-pagar .group-98-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 32px;
+  position: absolute;
+  top: 52px;
+  width: 11px;
+}
+
+.perfil-cliente-pagar .line-10-royatl {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 11px;
+}
+
+.perfil-cliente-pagar .line-11-royatl {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: 10px;
+  width: 11px;
+}
+
+.perfil-cliente-pagar .para-wearecaotic-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 125px;
+  width: 351px;
+}
+
+.perfil-cliente-pagar .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-pagar .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.perfil-cliente-pagar .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.perfil-cliente-pagar .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente-pagar .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.perfil-cliente-pagar .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.perfil-cliente-pagar .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.perfil-cliente-pagar .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.perfil-cliente-pagar .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.perfil-cliente-pagar .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.perfil-cliente-pagar .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.perfil-cliente-pagar .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.perfil-cliente-pagar .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-cliente-pagar .frame-106-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.perfil-cliente-pagar .frame-106-C61RwL {
+  background-color: transparent;
+  height: 588px;
+  left: 18px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 179px;
+  width: 352px;
+}
+
+.perfil-cliente-pagar .rectangle-1324-xAfeUv {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 49px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 558px;
+  width: 327px;
+}
+
+.perfil-cliente-pagar .continuar-xAfeUv {
+  background-color: transparent;
+  height: auto;
+  left: 144px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 573px;
+  width: auto;
+}
+
+.perfil-cliente-pagar .group-313-xAfeUv {
+  background-color: transparent;
+  height: 75px;
+  left: 16px;
+  position: absolute;
+  top: 245px;
+  width: 330px;
+}
+
+.perfil-cliente-pagar .rectangle-1329-7fxCCN {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.perfil-cliente-pagar .mtodo-de-pago-tarjeta-8201-7fxCCN {
+  background-color: transparent;
+  height: 50px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 243px;
+}
+
+.perfil-cliente-pagar .span0-Ua5q0I {
+}
+
+.perfil-cliente-pagar .span1-Ua5q0I {
+}
+
+.perfil-cliente-pagar .cambiar-7fxCCN {
+  background-color: transparent;
+  color: var(--rosa-osc);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 11px;
+  white-space: nowrap;
+  width: 243px;
+}
+
+.perfil-cliente-pagar .group-318-xAfeUv {
+  background-color: transparent;
+  height: 45px;
+  left: 16px;
+  position: absolute;
+  top: 335px;
+  width: 328px;
+}
+
+.perfil-cliente-pagar .rectangle-1329-alE5E9 {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.perfil-cliente-pagar .agregar-cupn-alE5E9 {
+  background-color: transparent;
+  height: 15px;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: 243px;
+}
+
+.perfil-cliente-pagar .group-317-xAfeUv {
+  background-color: transparent;
+  height: 129px;
+  left: 14px;
+  position: absolute;
+  top: 101px;
+  width: 332px;
+}
+
+.perfil-cliente-pagar .rectangle-1327-2eib3G {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 129px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.perfil-cliente-pagar .datos-de-envo-2eib3G {
+  background-color: transparent;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  width: auto;
+}
+
+.perfil-cliente-pagar .envo-para-camila-mon-2eib3G {
+  background-color: transparent;
+  height: 78px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 37px;
+  width: 233px;
+}
+
+.perfil-cliente-pagar .cambiar-2eib3G {
+  background-color: transparent;
+  color: var(--rosa-osc);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: 68px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 18px;
+  white-space: nowrap;
+  width: 243px;
+}
+
+.perfil-cliente-pagar .group-319-xAfeUv {
+  background-color: transparent;
+  height: 72px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 328px;
+}
+
+.perfil-cliente-pagar .rectangle-1327-jhzhy5 {
+  background-color: var(--white);
+  border-radius: 7.5px;
+  box-shadow: 0px 9px 15px #a7b2bb4c;
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.perfil-cliente-pagar .rectangle-1328-jhzhy5 {
+  background-color: transparent;
+  height: 50px;
+  left: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 50px;
+}
+
+.perfil-cliente-pagar .compra-en-blinkcustomjewwels-jhzhy5 {
+  background-color: transparent;
+  height: 44px;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 21.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 14px;
+  width: 243px;
+}
+
+.perfil-cliente-pagar .span0-WQS5I1 {
+}
+
+.perfil-cliente-pagar .span1-WQS5I1 {
+}
+
+.perfil-cliente-pagar .rectangle-1331-xAfeUv {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 17px;
+  position: absolute;
+  top: 434px;
+  width: 60px;
+}
+
+.perfil-cliente-pagar .agrega-un-regalo-xAfeUv {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 406px;
+  width: auto;
+}
+
+.perfil-cliente-pagar .x500-xAfeUv {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.perfil-cliente-pagar .x12000-xAfeUv {
+  background-color: transparent;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.perfil-cliente-pagar .ellipse-82-xAfeUv {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 66px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 477px;
+  width: 22px;
+}
+
+.perfil-cliente-pagar .x2-xAfeUv {
+  background-color: transparent;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  width: auto;
+}
+
+.perfil-cliente-pagar .rectangle-1332-xAfeUv {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 94px;
+  position: absolute;
+  top: 434px;
+  width: 60px;
+}
+
+.perfil-cliente-pagar .ellipse-83-xAfeUv {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 143px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 477px;
+  width: 22px;
+}
+
+.perfil-cliente-pagar .x1-xAfeUv {
+  background-color: transparent;
+  height: auto;
+  left: 148px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 480px;
+  width: auto;
+}
+
+.perfil-cliente-pagar .x7-bbaa8-e7-d3-cb-40-xAfeUv {
+  background-color: transparent;
+  height: 52px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 436px;
+  width: 28px;
+}
+
+.perfil-cliente-pagar .x108585-aa-6590-4-c2-xAfeUv {
+  background-color: transparent;
+  height: 50px;
+  left: 99px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 50px;
+}
+
+.perfil-cliente-pagar .ver-tienda-xAfeUv {
+  background-color: transparent;
+  color: var(--gray-icon);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 177px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.perfil-cliente-pagar .arrow-5-xAfeUv {
+  background-color: transparent;
+  height: 15px;
+  left: 188px;
+  position: absolute;
+  top: 456px;
+  width: 24px;
+}
+
+.perfil-cliente-pagar .rectangle-1328-xAfeUv {
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 60px;
+  left: 171px;
+  position: absolute;
+  top: 434px;
+  width: 60px;
+}
+
+.perfil-cliente-pagar .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.perfil-cliente-pagar .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-pagar .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.perfil-cliente-pagar .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.perfil-cliente-pagar .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-pagar .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-pagar .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

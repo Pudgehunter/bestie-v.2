@@ -1,0 +1,827 @@
+/* screen - crear-proyecto-emprendedor-descuento */
+
+.crear-proyecto-emprendedor-descuento {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor-descuento .paso1-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.crear-proyecto-emprendedor-descuento .paso1-C61RwL {
+  background-color: transparent;
+  height: 631px;
+  left: 25px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 128px;
+  width: 342px;
+}
+
+.crear-proyecto-emprendedor-descuento .group-307-2libCb {
+  background-color: transparent;
+  height: 37px;
+  left: 32px;
+  position: absolute;
+  top: 57px;
+  width: 276px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1308-xWwG4r {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.crear-proyecto-emprendedor-descuento .descuento-xWwG4r {
+  background-color: transparent;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 222px;
+}
+
+.crear-proyecto-emprendedor-descuento .beneficio-para-tus-clientes-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-descuento .procentaje-ofrecido-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 117px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-descuento .pasos-para-alcanzar-tu-meta-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 281px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1313-2libCb {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 40px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 158px;
+  width: 40px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1314-2libCb {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 40px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 40px;
+}
+
+.crear-proyecto-emprendedor-descuento .x10-2libCb {
+  background-color: transparent;
+  border: 0;
+  height: 15px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: center;
+  top: 169px;
+  width: 21px;
+}
+
+.crear-proyecto-emprendedor-descuento .x10-2libCb::placeholder {
+  color: #14142a99;
+}
+
+.crear-proyecto-emprendedor-descuento .x-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 228px;
+  width: 21px;
+}
+
+.crear-proyecto-emprendedor-descuento .group-317-2libCb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 40px;
+  position: absolute;
+  top: 692px;
+  width: 259px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-6-Afct1V {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.crear-proyecto-emprendedor-descuento .enviar-Afct1V {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.crear-proyecto-emprendedor-descuento .vector-2libCb {
+  background-color: transparent;
+  height: 10px;
+  left: 268px;
+  position: absolute;
+  top: 73px;
+  width: 20px;
+}
+
+.crear-proyecto-emprendedor-descuento .de-descuento-2libCb {
+  background-color: transparent;
+  height: 25px;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-descuento .agregar-descuento-2libCb {
+  background-color: transparent;
+  height: 25px;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 224px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-descuento .encontrar-el-carrito-2libCb {
+  background-color: transparent;
+  height: 34px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 318px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-descuento .buscar-un-buen-lugar-en-la-calle-2libCb {
+  background-color: transparent;
+  height: 20px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 368px;
+  width: 169px;
+}
+
+.crear-proyecto-emprendedor-descuento .instalar-el-carrito-2libCb {
+  background-color: transparent;
+  height: 25px;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 404px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1381-2libCb {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 328px;
+  width: 16px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1382-2libCb {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 369px;
+  width: 16px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1383-2libCb {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 16px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 410px;
+  width: 16px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-30-2libCb {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 457px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1384-2libCb {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 603px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-descuento .introduce-el-valor-mnimo-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-descuento .esta-opcin-es-para-q-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 548px;
+  width: 275px;
+}
+
+.crear-proyecto-emprendedor-descuento .agregar-un-paso-2libCb {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 467px;
+  width: 244px;
+}
+
+.crear-proyecto-emprendedor-descuento .x-wHdKqr {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 613px;
+  width: 244px;
+}
+
+.crear-proyecto-emprendedor-descuento .x-wHdKqr::placeholder {
+  color: #4e4b6699;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-2libCb {
+  background-color: transparent;
+  height: 22px;
+  left: 270px;
+  position: absolute;
+  top: 465px;
+  width: 22px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1338-8Pznmx {
+  background-color: var(--cielo);
+  border-radius: 15.5px;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-8Pznmx {
+  background-color: transparent;
+  height: 7px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 7px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-wHdKqr {
+  background-color: transparent;
+  height: 19px;
+  left: 259px;
+  position: absolute;
+  top: 327px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1338-zbfQV9 {
+  background-color: var(--star-dust);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-kYehvr {
+  background-color: transparent;
+  height: 19px;
+  left: 259px;
+  position: absolute;
+  top: 368px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1338-YxOZUi {
+  background-color: var(--star-dust);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-zxDle0 {
+  background-color: transparent;
+  height: 19px;
+  left: 259px;
+  position: absolute;
+  top: 409px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1338-Lnx3NT {
+  background-color: var(--star-dust);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-DfwgIg {
+  background-color: transparent;
+  height: 19px;
+  left: 288px;
+  position: absolute;
+  top: 327px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1338-BJ2l7Z {
+  background-color: var(--rojo);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-BJ2l7Z {
+  background-color: transparent;
+  height: 8px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  transform: rotate(45deg);
+  width: 8px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-o4ZKJ7 {
+  background-color: transparent;
+  height: 19px;
+  left: 288px;
+  position: absolute;
+  top: 368px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1338-7SHvzo {
+  background-color: var(--rojo);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-7SHvzo {
+  background-color: transparent;
+  height: 8px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  transform: rotate(45deg);
+  width: 8px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-hRzj7l {
+  background-color: transparent;
+  height: 19px;
+  left: 288px;
+  position: absolute;
+  top: 409px;
+  transform: rotate(-45.00deg);
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1338-M4PRFi {
+  background-color: var(--rojo);
+  border-radius: 15.5px;
+  height: 19px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .plus-M4PRFi {
+  background-color: transparent;
+  height: 8px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  transform: rotate(45deg);
+  width: 8px;
+}
+
+.crear-proyecto-emprendedor-descuento .group-321-2libCb {
+  background-color: transparent;
+  height: 9px;
+  left: 264px;
+  position: absolute;
+  top: 332px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-descuento .group-322-2libCb {
+  background-color: transparent;
+  height: 9px;
+  left: 264px;
+  position: absolute;
+  top: 373px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-descuento .group-323-2libCb {
+  background-color: transparent;
+  height: 9px;
+  left: 264px;
+  position: absolute;
+  top: 414px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-descuento .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor-descuento .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.crear-proyecto-emprendedor-descuento .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.crear-proyecto-emprendedor-descuento .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.crear-proyecto-emprendedor-descuento .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor-descuento .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor-descuento .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.crear-proyecto-emprendedor-descuento .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.crear-proyecto-emprendedor-descuento .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.crear-proyecto-emprendedor-descuento .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.crear-proyecto-emprendedor-descuento .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.crear-proyecto-emprendedor-descuento .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.crear-proyecto-emprendedor-descuento .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-descuento .proyectos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-descuento .paso-2-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  width: auto;
+}
+
+.crear-proyecto-emprendedor-descuento .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.crear-proyecto-emprendedor-descuento .nav-emprendimiento-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 1px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor-descuento .rectangle-1463-VNtfJe {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.crear-proyecto-emprendedor-descuento .union-VNtfJe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.crear-proyecto-emprendedor-descuento .union-t9QcV5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 34px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.crear-proyecto-emprendedor-descuento .union-pIWv0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.crear-proyecto-emprendedor-descuento .union-rK7kDd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

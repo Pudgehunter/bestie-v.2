@@ -1,0 +1,118 @@
+/* screen - mensaje-popup-sticker */
+
+.mensaje-popup-sticker {
+  background-color: var(--black-3);
+  height: 844px;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.mensaje-popup-sticker .mensaje-popup-sticker-C61RwL {
+  background-color: transparent;
+  height: 482px;
+  left: calc(50vw - 166.5px);
+  position: relative;
+  top: calc(50vh - 241.0px);
+  width: 333px;
+}
+
+.mensaje-popup-sticker .group-102-yuqo8q {
+  background-color: transparent;
+  height: 482px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.mensaje-popup-sticker .rectangle-1325-oxIoJc {
+  background-color: var(--hint-of-red);
+  border-radius: 10px;
+  height: 482px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 333px;
+}
+
+.mensaje-popup-sticker .group-101-oxIoJc {
+  background-color: transparent;
+  height: 209px;
+  left: 36px;
+  position: absolute;
+  top: 217px;
+  width: 264px;
+}
+
+.mensaje-popup-sticker .muchas-gracias-por-tu-apoyo-r8OQor {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 239px;
+}
+
+.mensaje-popup-sticker .el-comprobante-de-tu-r8OQor {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: 260px;
+}
+
+.mensaje-popup-sticker .group-100-r8OQor {
+  background-color: transparent;
+  cursor: pointer;
+  height: 50px;
+  left: 52px;
+  position: absolute;
+  top: 159px;
+  width: 158px;
+}
+
+.mensaje-popup-sticker .rectangle-1324-1lasJj {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 156px;
+}
+
+.mensaje-popup-sticker .regresar-1lasJj {
+  background-color: transparent;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 61px;
+}
+
+.mensaje-popup-sticker .rectangle-16-yuqo8q {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 123px;
+}

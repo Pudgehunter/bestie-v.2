@@ -1,0 +1,62 @@
+/* screen - recargaready */
+
+.recargaready {
+  background-color: transparent;
+  cursor: pointer;
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.recargaready .recarga-ready-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 179px;
+  left: calc(50vw - 165.2392578125px);
+  mix-blend-mode: normal;
+  position: relative;
+  top: calc(50vh - 89.28923797607422px);
+  width: 330px;
+}
+
+.recargaready .group-1971-9YOnRb {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 334px;
+}
+
+.recargaready .rectangle-1465-IpRFtW {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 179px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 330px;
+}
+
+.recargaready .bestie-IpRFtW {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 55px;
+}
+
+.recargaready .recarga-exitosa-sigue-disfrutando-IpRFtW {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 210px;
+}

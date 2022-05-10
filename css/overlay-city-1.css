@@ -1,0 +1,146 @@
+/* screen - overlay-city-1 */
+
+.overlay-city-1 {
+  background-color: transparent;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.overlay-city-1 .overlay-city-C61RwL {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 274px;
+}
+
+.overlay-city-1 .group-373-mhEwCx {
+  background-color: transparent;
+  height: 148px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 274px;
+}
+
+.overlay-city-1 .rectangle-1367-NG528a {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 148px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.overlay-city-1 .group-308-NG528a {
+  background-color: transparent;
+  height: 122px;
+  left: 17px;
+  position: absolute;
+  top: 11px;
+  width: 232px;
+}
+
+.overlay-city-1 .ciudad-5gr97p {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 222px;
+}
+
+.overlay-city-1 .cali-5gr97p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 32px;
+  width: 222px;
+}
+
+.overlay-city-1 .jamund-5gr97p {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 57px;
+  width: 222px;
+}
+
+.overlay-city-1 .bogot-5gr97p {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 82px;
+  width: 222px;
+}
+
+.overlay-city-1 .pereira-5gr97p {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: 222px;
+}
+
+.overlay-city-1 .vector-NG528a {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.overlay-city-1 .rectangle-1369-NG528a {
+  background-color: #c4c4c470;
+  border-radius: 36px;
+  height: 90px;
+  left: 256px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 4px;
+}
+
+.overlay-city-1 .rectangle-1368-NG528a {
+  background-color: var(--mist-gray);
+  border-radius: 36px;
+  height: 30px;
+  left: 256px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 4px;
+}

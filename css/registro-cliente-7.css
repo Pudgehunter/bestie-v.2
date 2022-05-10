@@ -1,0 +1,313 @@
+/* screen - registro-cliente-7 */
+
+.registro-cliente-7 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.registro-cliente-7 .departamento-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 411px;
+  width: 263px;
+}
+
+.registro-cliente-7 .ciudad-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 465px;
+  width: 263px;
+}
+
+.registro-cliente-7 .vector-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 25px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.registro-cliente-7 .rectangle-34-C61RwL {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.registro-cliente-7 .rectangle-35-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 74px;
+}
+
+.registro-cliente-7 .regstrate-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 86px;
+  width: auto;
+}
+
+.registro-cliente-7 .rectangle-48-C61RwL {
+  background-color: transparent;
+  border-radius: 1px;
+  cursor: pointer;
+  height: 18px;
+  left: 66px;
+  position: absolute;
+  top: 547px;
+  width: 18px;
+}
+
+.registro-cliente-7 .acepto-trminos-y-condiciones-de-uso-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 87px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 546px;
+  width: 287px;
+}
+
+.registro-cliente-7 .span0-GAi4C5 {
+}
+
+.registro-cliente-7 .span1-GAi4C5 {
+  text-decoration: underline;
+}
+
+.registro-cliente-7 .span2-GAi4C5 {
+}
+
+.registro-cliente-7 .group-232-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 712px;
+  width: 259px;
+}
+
+.registro-cliente-7 .rectangle-6-5SfYAT {
+  background-color: var(--cielo-claro);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.registro-cliente-7 .enviar-5SfYAT {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.registro-cliente-7 .datos-registro-cliente-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 192px;
+  width: 290px;
+}
+
+.registro-cliente-7 .line-13-QLlYxn {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 290px;
+}
+
+.registro-cliente-7 .nombre-QLlYxn {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 263px;
+}
+
+.registro-cliente-7 .datos-registro-cliente-VMr6Om {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 247px;
+  width: 290px;
+}
+
+.registro-cliente-7 .line-13-K8jDZW {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 290px;
+}
+
+.registro-cliente-7 .apellidos-K8jDZW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 263px;
+}
+
+.registro-cliente-7 .datos-registro-cliente-mzXdH9 {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 302px;
+  width: 290px;
+}
+
+.registro-cliente-7 .line-13-Bb8NUf {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 290px;
+}
+
+.registro-cliente-7 .correo-Bb8NUf {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 263px;
+}
+
+.registro-cliente-7 .datos-registro-cliente-QxM5SU {
+  background-color: transparent;
+  height: 23px;
+  left: 51px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 357px;
+  width: 290px;
+}
+
+.registro-cliente-7 .line-13-OuxjVj {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 290px;
+}
+
+.registro-cliente-7 .celular-OuxjVj {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 263px;
+}
+
+.registro-cliente-7 .vector-C61RwL {
+  background-color: transparent;
+  height: 11px;
+  left: 315px;
+  position: absolute;
+  top: 412px;
+  width: 19px;
+}
+
+.registro-cliente-7 .vector-VMr6Om {
+  background-color: transparent;
+  height: 11px;
+  left: 315px;
+  position: absolute;
+  top: 466px;
+  width: 19px;
+}
+
+.registro-cliente-7 .line-17-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 434px;
+  width: 290px;
+}
+
+.registro-cliente-7 .line-18-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 489px;
+  width: 290px;
+}

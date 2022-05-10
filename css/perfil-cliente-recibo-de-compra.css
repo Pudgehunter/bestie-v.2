@@ -1,0 +1,494 @@
+/* screen - perfil-cliente-recibo-de-compra */
+
+.perfil-cliente-recibo-de-compra {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.perfil-cliente-recibo-de-compra .rectangle-1325-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 40px;
+  box-shadow: 0px 9px 15px #a7b2bb6e;
+  height: 496px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -82px;
+  width: 390px;
+}
+
+.perfil-cliente-recibo-de-compra .tu-compra-ha-sido-realizada-con-xito-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 232px;
+  width: 295px;
+}
+
+.perfil-cliente-recibo-de-compra .felicitaciones-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 127px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 208px;
+  width: auto;
+}
+
+.perfil-cliente-recibo-de-compra .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-recibo-de-compra .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.perfil-cliente-recibo-de-compra .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.perfil-cliente-recibo-de-compra .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente-recibo-de-compra .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.perfil-cliente-recibo-de-compra .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.perfil-cliente-recibo-de-compra .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.perfil-cliente-recibo-de-compra .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.perfil-cliente-recibo-de-compra .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.perfil-cliente-recibo-de-compra .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.perfil-cliente-recibo-de-compra .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.perfil-cliente-recibo-de-compra .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.perfil-cliente-recibo-de-compra .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-cliente-recibo-de-compra .envo-para-juan-prez-C61RwL {
+  background-color: transparent;
+  height: 59px;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 306px;
+  width: 224px;
+}
+
+.perfil-cliente-recibo-de-compra .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 123px;
+  left: 132px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 72px;
+  width: 123px;
+}
+
+.perfil-cliente-recibo-de-compra .frame-107-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.perfil-cliente-recibo-de-compra .frame-107-C61RwL {
+  background-color: transparent;
+  height: 350px;
+  left: 28px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 422px;
+  width: 343px;
+}
+
+.perfil-cliente-recibo-de-compra .recibo-de-compra-sIqxxj {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+
+.perfil-cliente-recibo-de-compra .anillo-curvy-1-unidad-sIqxxj {
+  background-color: transparent;
+  height: 39px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  width: 224px;
+}
+
+.perfil-cliente-recibo-de-compra .span0-MCklKY {
+}
+
+.perfil-cliente-recibo-de-compra .span1-MCklKY {
+}
+
+.perfil-cliente-recibo-de-compra .x45000-sIqxxj {
+  background-color: transparent;
+  height: 19px;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.perfil-cliente-recibo-de-compra .total-pagado-sIqxxj {
+  background-color: transparent;
+  height: 20px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.perfil-cliente-recibo-de-compra .el-22032022-a-la-1742-sIqxxj {
+  background-color: transparent;
+  height: 20px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: 202px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.perfil-cliente-recibo-de-compra .x180000-sIqxxj {
+  background-color: transparent;
+  height: 20px;
+  left: 259px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 182px;
+  white-space: nowrap;
+  width: 83px;
+}
+
+.perfil-cliente-recibo-de-compra .conjuto-army-1-unidad-sIqxxj {
+  background-color: transparent;
+  height: 39px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 109px;
+  width: 224px;
+}
+
+.perfil-cliente-recibo-de-compra .span0-OAZrox {
+}
+
+.perfil-cliente-recibo-de-compra .span1-OAZrox {
+}
+
+.perfil-cliente-recibo-de-compra .x135000-sIqxxj {
+  background-color: transparent;
+  height: 20px;
+  left: 267px;
+  letter-spacing: 0.00px;
+  line-height: 19.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 108px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.perfil-cliente-recibo-de-compra .rectangle-1339-sIqxxj {
+  background-color: transparent;
+  height: 40px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 109px;
+  width: 40px;
+}
+
+.perfil-cliente-recibo-de-compra .rectangle-1342-sIqxxj {
+  background-color: transparent;
+  height: 40px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55px;
+  width: 40px;
+}
+
+.perfil-cliente-recibo-de-compra .rectangle-1324-sIqxxj {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 49px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 315px;
+  width: 327px;
+}
+
+.perfil-cliente-recibo-de-compra .finalizar-sIqxxj {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  width: auto;
+}
+
+.perfil-cliente-recibo-de-compra .nmero-de-autorizacin-1234567890-sIqxxj {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 241px;
+  width: 351px;
+}
+
+.perfil-cliente-recibo-de-compra .span0-r2xOly {
+}
+
+.perfil-cliente-recibo-de-compra .span1-r2xOly {
+}
+
+.perfil-cliente-recibo-de-compra .vector-124-sIqxxj {
+  background-color: transparent;
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 171px;
+  width: 330px;
+}
+
+.perfil-cliente-recibo-de-compra .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 772px;
+  width: 390px;
+}
+
+.perfil-cliente-recibo-de-compra .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-recibo-de-compra .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.perfil-cliente-recibo-de-compra .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.perfil-cliente-recibo-de-compra .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-recibo-de-compra .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-recibo-de-compra .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

@@ -1,0 +1,237 @@
+/* screen - registro-cliente7 */
+
+.registro-cliente7 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.registro-cliente7 .vector-1-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 25px;
+  position: absolute;
+  top: 48px;
+  width: 10px;
+}
+
+.registro-cliente7 .rectangle-34-C61RwL {
+  background-color: transparent;
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  position: absolute;
+  top: 50px;
+  width: 298px;
+}
+
+.registro-cliente7 .rectangle-35-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.25px;
+  height: 9px;
+  left: 65px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 164px;
+}
+
+.registro-cliente7 .escribe-tu-nombre-de-usuario-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 81px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 84px;
+  width: auto;
+}
+
+.registro-cliente7 .group-232-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 614px;
+  width: 259px;
+}
+
+.registro-cliente7 .rectangle-6-5SfYAT {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.registro-cliente7 .enviar-5SfYAT {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.registro-cliente7 .queremos-que-tengas-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 121px;
+  width: 325px;
+}
+
+.registro-cliente7 .span0-NDgcQV {
+}
+
+.registro-cliente7 .span1-NDgcQV {
+  color: var(--star-dust);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.registro-cliente7 .span2-NDgcQV {
+}
+
+.registro-cliente7 .datos-registro-cliente-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 238px;
+  width: 224px;
+}
+
+.registro-cliente7 .line-13-QLlYxn {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.registro-cliente7 .nombre-de-usuario-QLlYxn {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.registro-cliente7 .datos-registro-cliente-VMr6Om {
+  background-color: transparent;
+  height: 23px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 293px;
+  width: 224px;
+}
+
+.registro-cliente7 .line-13-K8jDZW {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.registro-cliente7 .contrasea-K8jDZW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.registro-cliente7 .datos-registro-cliente-mzXdH9 {
+  background-color: transparent;
+  height: 23px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 348px;
+  width: 224px;
+}
+
+.registro-cliente7 .line-13-Bb8NUf {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 23px;
+  width: 224px;
+}
+
+.registro-cliente7 .verificar-contrasea-Bb8NUf {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 203px;
+}
+
+.registro-cliente7 .rectangle-1312-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 95px;
+  left: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 403px;
+  width: 287px;
+}
+
+.registro-cliente7 .cuntanos-sobre-ti-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 62px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 408px;
+  width: 256px;
+}

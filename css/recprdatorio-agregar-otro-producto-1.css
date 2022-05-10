@@ -1,0 +1,91 @@
+/* screen - recprdatorio-agregar-otro-producto-1 */
+
+.recprdatorio-agregar-otro-producto-1 {
+  background-color: #ffffff40;
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+#overlay-recprdatorio-agregar-otro-producto-1 {
+  background-color: #ffffff40;
+}
+
+.overlay .recprdatorio-agregar-otro-producto-1 {
+  background-color: #00000000;
+}
+
+.recprdatorio-agregar-otro-producto-1 .recprdatorio-agregar-otro-producto-C61RwL {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 252px;
+  left: calc(50vw - 166.5px);
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 126.0px);
+  width: 333px;
+}
+
+.recprdatorio-agregar-otro-producto-1 .el-que-no-muestra-no-I6jIYq {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 98px;
+  width: 288px;
+}
+
+.recprdatorio-agregar-otro-producto-1 .cuidadito-se-te-olvida-algo-importante-I6jIYq {
+  background-color: transparent;
+  height: 38px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: 178px;
+}
+
+.recprdatorio-agregar-otro-producto-1 .group-403-I6jIYq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 92px;
+  position: absolute;
+  top: 171px;
+  width: 151px;
+}
+
+.recprdatorio-agregar-otro-producto-1 .rectangle-1461-gp0PMo {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 149px;
+}
+
+.recprdatorio-agregar-otro-producto-1 .aadir-fotos-gp0PMo {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 149px;
+}

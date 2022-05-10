@@ -1,0 +1,22 @@
+/* screen - registro-cliente */
+
+.registro-cliente {
+  background-color: var(--azul);
+  cursor: pointer;
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.registro-cliente .rectangle-1438-C61RwL {
+  background-color: transparent;
+  height: 540px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 120px;
+  width: 390px;
+}

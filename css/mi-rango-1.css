@@ -1,0 +1,675 @@
+/* screen - mi-rango-1 */
+
+.mi-rango-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.mi-rango-1 .rectangle-1410-C61RwL {
+  background-color: transparent;
+  height: 68px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 325px;
+  width: 334px;
+}
+
+.mi-rango-1 .rectangle-1409-C61RwL {
+  background-color: transparent;
+  border: 2.0px solid var(--amarillo);
+  border-radius: 20px;
+  height: 231px;
+  left: 28px;
+  position: absolute;
+  top: 162px;
+  width: 334px;
+}
+
+.mi-rango-1 .mi-rango-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 166px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.mi-rango-1 .blink-custom-jewels-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 184px;
+  width: auto;
+}
+
+.mi-rango-1 .has-completado-ms-de-400-ventas-con-xito-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 173px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 216px;
+  width: 189px;
+}
+
+.mi-rango-1 .has-generado-ingresos-por-ms-de-4000000-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 173px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 263px;
+  width: 189px;
+}
+
+.mi-rango-1 .rango-iconic-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 138px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 334px;
+  width: 114px;
+}
+
+.mi-rango-1 .eres-bestie-desde-el-30-de-mayo-de-2022-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 365px;
+  width: 297px;
+}
+
+.mi-rango-1 .back-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 110px;
+  width: 7px;
+}
+
+.mi-rango-1 .vector-7WGuVo {
+  background-color: transparent;
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: -2px;
+  width: 9px;
+}
+
+.mi-rango-1 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.mi-rango-1 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.mi-rango-1 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.mi-rango-1 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.mi-rango-1 .icon-bar_chart-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.mi-rango-1 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.mi-rango-1 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.mi-rango-1 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.mi-rango-1 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.mi-rango-1 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.mi-rango-1 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.mi-rango-1 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.mi-rango-1 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.mi-rango-1 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.mi-rango-1 .rectangle-1400-C61RwL {
+  background-color: transparent;
+  height: 67px;
+  left: 48px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 222px;
+  width: 67px;
+}
+
+.mi-rango-1 .lmite-crediticio-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 446px;
+  width: auto;
+}
+
+.mi-rango-1 .tu-progreso-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 532px;
+  width: auto;
+}
+
+.mi-rango-1 .x2000000-de-cop-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 473px;
+  width: auto;
+}
+
+.mi-rango-1 .group-261-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 197px;
+  position: absolute;
+  top: 450px;
+  width: 165px;
+}
+
+.mi-rango-1 .rectangle-6-FD978N {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 165px;
+}
+
+.mi-rango-1 .enviar-FD978N {
+  background-color: transparent;
+  height: 38px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 143px;
+}
+
+.mi-rango-1 .check-C61RwL {
+  background-color: transparent;
+  height: 18px;
+  left: 145px;
+  position: absolute;
+  top: 222px;
+  width: 18px;
+}
+
+.mi-rango-1 .ellipse-103-RFbRpq {
+  background-color: var(--amarillo);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.mi-rango-1 .check-RFbRpq {
+  background-color: transparent;
+  height: 8px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.mi-rango-1 .check-VMr6Om {
+  background-color: transparent;
+  height: 18px;
+  left: 145px;
+  position: absolute;
+  top: 264px;
+  width: 18px;
+}
+
+.mi-rango-1 .ellipse-103-NAHkAe {
+  background-color: var(--amarillo);
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.mi-rango-1 .check-NAHkAe {
+  background-color: transparent;
+  height: 8px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.mi-rango-1 .rectangle-1421-C61RwL {
+  background-color: var(--limon-claro);
+  border-radius: 5px;
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 569px;
+  transform: rotate(-180deg);
+  width: 332px;
+}
+
+.mi-rango-1 .rectangle-1422-C61RwL {
+  background-color: var(--limon);
+  border-radius: 5px;
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 602px;
+  transform: rotate(-180deg);
+  width: 332px;
+}
+
+.mi-rango-1 .rectangle-1423-C61RwL {
+  background-color: var(--limon-osc);
+  border-radius: 5px;
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 634px;
+  transform: rotate(-180deg);
+  width: 332px;
+}
+
+.mi-rango-1 .rectangle-1424-C61RwL {
+  background-color: var(--amarillo);
+  border-radius: 5px;
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 667px;
+  transform: rotate(-180deg);
+  width: 332px;
+}
+
+.mi-rango-1 .rectangle-1425-C61RwL {
+  background-color: var(--pink);
+  border-radius: 5px;
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 700px;
+  transform: rotate(-180deg);
+  width: 332px;
+}
+
+.mi-rango-1 .rectangle-1427-C61RwL {
+  background-color: var(--pink);
+  border-radius: 5px;
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 700px;
+  transform: rotate(-180deg);
+  width: 167px;
+}
+
+.mi-rango-1 .rectangle-1426-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 5px;
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 733px;
+  transform: rotate(-180deg);
+  width: 332px;
+}
+
+.mi-rango-1 .rango-conocido-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 571px;
+  width: auto;
+}
+
+.mi-rango-1 .rango-amigo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 604px;
+  width: auto;
+}
+
+.mi-rango-1 .rango-amix-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 636px;
+  width: auto;
+}
+
+.mi-rango-1 .rango-iconic-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 669px;
+  width: auto;
+}
+
+.mi-rango-1 .rango-mor-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 702px;
+  width: auto;
+}
+
+.mi-rango-1 .rango-bestie-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 735px;
+  width: auto;
+}
+
+.mi-rango-1 .x100-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 571px;
+  width: auto;
+}
+
+.mi-rango-1 .x100-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 604px;
+  width: auto;
+}
+
+.mi-rango-1 .x100-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 636px;
+  width: auto;
+}
+
+.mi-rango-1 .x100-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 669px;
+  width: auto;
+}
+
+.mi-rango-1 .x50-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 702px;
+  width: auto;
+}
+
+.mi-rango-1 .x0-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 333px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 735px;
+  width: auto;
+}
+
+.mi-rango-1 .nav-emprendimiento-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}

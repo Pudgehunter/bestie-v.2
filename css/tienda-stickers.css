@@ -1,0 +1,1148 @@
+/* screen - tienda-stickers */
+
+.tienda-stickers {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.tienda-stickers .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 18px;
+  position: absolute;
+  top: 50px;
+  width: 12px;
+}
+
+.tienda-stickers .tienda-enva-un-regalo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.tienda-stickers .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.tienda-stickers .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.tienda-stickers .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.tienda-stickers .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.tienda-stickers .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.tienda-stickers .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.tienda-stickers .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.tienda-stickers .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.tienda-stickers .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.tienda-stickers .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.tienda-stickers .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.tienda-stickers .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.tienda-stickers .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.tienda-stickers .frame-100-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.tienda-stickers .frame-100-C61RwL {
+  background-color: transparent;
+  height: 673px;
+  left: 0px;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 96px;
+  width: 390px;
+}
+
+.tienda-stickers .tus-stickers-FlJRau {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: auto;
+}
+
+.tienda-stickers .ms-stickers-que-podran-gustarte-FlJRau {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: auto;
+}
+
+.tienda-stickers .nivel-2-frame-horizontal-FlJRau::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.tienda-stickers .nivel-2-frame-horizontal-FlJRau {
+  background-color: transparent;
+  height: 171px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 440px;
+  width: 390px;
+}
+
+.tienda-stickers .nv2-group3-BqBcAx {
+  background-color: transparent;
+  height: 158px;
+  left: 316px;
+  position: absolute;
+  top: 1px;
+  width: 128px;
+}
+
+.tienda-stickers .rectangle-1318-kEox8t {
+  background-color: var(--cielo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 124px;
+}
+
+.tienda-stickers .group-238-kEox8t {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 104px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1319-clUrwt {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1320-clUrwt {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .group-1983-kEox8t {
+  background-color: transparent;
+  height: 108px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 83px;
+}
+
+.tienda-stickers .image00007-LyrSGJ {
+  background-color: transparent;
+  height: 108px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 70px;
+}
+
+.tienda-stickers .image00006-LyrSGJ {
+  background-color: transparent;
+  height: 98px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 35px;
+}
+
+.tienda-stickers .x15500-kEox8t {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: auto;
+}
+
+.tienda-stickers .color-tequili-kEox8t {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: auto;
+}
+
+.tienda-stickers .nv2-group2-BqBcAx {
+  background-color: transparent;
+  height: 158px;
+  left: 181px;
+  position: absolute;
+  top: 1px;
+  width: 128px;
+}
+
+.tienda-stickers .rectangle-1316-zXyFQ5 {
+  background-color: var(--cielo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 124px;
+}
+
+.tienda-stickers .group-237-zXyFQ5 {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 104px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1319-q68cGp {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1320-q68cGp {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .x15000-zXyFQ5 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: auto;
+}
+
+.tienda-stickers .x2-tequili-zXyFQ5 {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: auto;
+}
+
+.tienda-stickers .group-1984-zXyFQ5 {
+  background-color: transparent;
+  height: 108px;
+  left: 12px;
+  position: absolute;
+  top: 0px;
+  width: 101px;
+}
+
+.tienda-stickers .image00007-R3NMmv {
+  background-color: transparent;
+  height: 108px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 70px;
+}
+
+.tienda-stickers .image00007-rFYGvE {
+  background-color: transparent;
+  height: 108px;
+  left: 31px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 70px;
+}
+
+.tienda-stickers .nv2-group1-BqBcAx {
+  background-color: transparent;
+  height: 158px;
+  left: 46px;
+  position: absolute;
+  top: 1px;
+  width: 128px;
+}
+
+.tienda-stickers .rectangle-1317-32hrme {
+  background-color: var(--cielo-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 124px;
+}
+
+.tienda-stickers .group-236-32hrme {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 104px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1319-BJzbMl {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1320-BJzbMl {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .x12000-32hrme {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 131px;
+  width: auto;
+}
+
+.tienda-stickers .tequili-32hrme {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  width: auto;
+}
+
+.tienda-stickers .image00007-32hrme {
+  background-color: transparent;
+  height: 108px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 70px;
+}
+
+.tienda-stickers .nivel-2-FlJRau {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 412px;
+  width: auto;
+}
+
+.tienda-stickers .nivel-1-frame-horizontal-FlJRau::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.tienda-stickers .nivel-1-frame-horizontal-FlJRau {
+  background-color: transparent;
+  height: 177px;
+  left: 0px;
+  overflow: hidden;
+  overflow-x: scroll;
+  position: absolute;
+  top: 210px;
+  width: 390px;
+}
+
+.tienda-stickers .group1-Ynx4dR {
+  background-color: transparent;
+  height: 154px;
+  left: 46px;
+  position: absolute;
+  top: 9px;
+  width: 128px;
+}
+
+.tienda-stickers .rectangle-1313-k9Hbxk {
+  background-color: var(--rosa-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .group-231-k9Hbxk {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1319-7iGm5C {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1320-7iGm5C {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .x3000-k9Hbxk {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.tienda-stickers .cofi-k9Hbxk {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: auto;
+}
+
+.tienda-stickers .group-326-k9Hbxk {
+  background-color: transparent;
+  height: 91px;
+  left: 33px;
+  position: absolute;
+  top: 6px;
+  width: 59px;
+}
+
+.tienda-stickers .image00001-8iL8nw {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.tienda-stickers .group2-Ynx4dR {
+  background-color: transparent;
+  height: 154px;
+  left: 182px;
+  position: absolute;
+  top: 9px;
+  width: 137px;
+}
+
+.tienda-stickers .rectangle-1314-Hx9Sxu {
+  background-color: var(--rosa-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .group-232-Hx9Sxu {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1319-R9HP6F {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1320-R9HP6F {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .x3500-Hx9Sxu {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.tienda-stickers .happy-cofi-Hx9Sxu {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: auto;
+}
+
+.tienda-stickers .group-325-Hx9Sxu {
+  background-color: transparent;
+  height: 100px;
+  left: 16px;
+  position: absolute;
+  top: 6px;
+  width: 117px;
+}
+
+.tienda-stickers .image00001-uEx8mn {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.tienda-stickers .image00004-uEx8mn {
+  background-color: transparent;
+  height: 96px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 98px;
+}
+
+.tienda-stickers .group3-Ynx4dR {
+  background-color: transparent;
+  height: 154px;
+  left: 318px;
+  position: absolute;
+  top: 9px;
+  width: 128px;
+}
+
+.tienda-stickers .rectangle-1315-EfAJhZ {
+  background-color: var(--rosa-claro);
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 154px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .group-233-EfAJhZ {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 100px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1319-I7TbZu {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .rectangle-1320-I7TbZu {
+  background-color: var(--white);
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.tienda-stickers .x4000-EfAJhZ {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 127px;
+  width: auto;
+}
+
+.tienda-stickers .happiness-EfAJhZ {
+  background-color: transparent;
+  height: auto;
+  left: 13px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: auto;
+}
+
+.tienda-stickers .group-324-EfAJhZ {
+  background-color: transparent;
+  height: 94px;
+  left: 9px;
+  position: absolute;
+  top: 6px;
+  width: 105px;
+}
+
+.tienda-stickers .image00001-4db8vZ {
+  background-color: transparent;
+  height: 91px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+
+.tienda-stickers .image00005-4db8vZ {
+  background-color: transparent;
+  height: 72px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 34px;
+}
+
+.tienda-stickers .nivel-1-FlJRau {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 186px;
+  width: auto;
+}
+
+.tienda-stickers .sticker-500-FlJRau {
+  background-color: transparent;
+  height: 80px;
+  left: 44px;
+  position: absolute;
+  top: 44px;
+  width: 76px;
+}
+
+.tienda-stickers .rectangle-1330-vqt4yh {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.tienda-stickers .x500-vqt4yh {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 63px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.tienda-stickers .ellipse-80-vqt4yh {
+  background-color: var(--amarillo);
+  border-radius: 11px;
+  height: 22px;
+  left: 50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 22px;
+}
+
+.tienda-stickers .x2-vqt4yh {
+  background-color: transparent;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  width: auto;
+}
+
+.tienda-stickers .image00003-vqt4yh {
+  background-color: transparent;
+  height: 45px;
+  left: 7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 47px;
+}
+
+.tienda-stickers .sticker-12000-FlJRau {
+  background-color: transparent;
+  height: 82px;
+  left: 122px;
+  position: absolute;
+  top: 42px;
+  width: 75px;
+}
+
+.tienda-stickers .x12000-9JswZT {
+  background-color: transparent;
+  height: auto;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.tienda-stickers .rectangle-1326-9JswZT {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 60px;
+}
+
+.tienda-stickers .ellipse-81-9JswZT {
+  background-color: var(--pink);
+  border-radius: 11px;
+  height: 22px;
+  left: 49px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 45px;
+  width: 22px;
+}
+
+.tienda-stickers .x1-9JswZT {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 49px;
+  width: auto;
+}
+
+.tienda-stickers .image00007-9JswZT {
+  background-color: transparent;
+  height: 64px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 42px;
+}
+
+.tienda-stickers .carrito-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 119px;
+  position: absolute;
+  top: 832px;
+  width: 165px;
+}
+
+.tienda-stickers .rectangle-6-FZqY1P {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+
+.tienda-stickers .ir-al-carrito-FZqY1P {
+  background-color: transparent;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 142px;
+}
+
+.tienda-stickers .quieres-dar-un-peque-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 739px;
+  width: auto;
+}
+
+.tienda-stickers .span0-zo8IRq {
+}
+
+.tienda-stickers .span1-zo8IRq {
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.tienda-stickers .span2-zo8IRq {
+}
+
+.tienda-stickers .span3-zo8IRq {
+  text-decoration: underline;
+}
+
+.tienda-stickers .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 390px;
+}
+
+.tienda-stickers .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.tienda-stickers .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.tienda-stickers .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.tienda-stickers .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.tienda-stickers .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.tienda-stickers .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

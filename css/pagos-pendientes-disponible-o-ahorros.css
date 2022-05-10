@@ -1,0 +1,385 @@
+/* screen - pagos-pendientes-disponible-o-ahorros */
+
+.pagos-pendientes-disponible-o-ahorros {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .pagos-pendientes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.pagos-pendientes-disponible-o-ahorros .vector-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .icon-bar_chart-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagos-pendientes-disponible-o-ahorros .de-dnde-saldr-el-dinero-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 161px;
+  width: 331px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .nav-emprendimiento-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .group-232-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 66px;
+  position: absolute;
+  top: 712px;
+  width: 259px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .rectangle-6-5SfYAT {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 259px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .enviar-5SfYAT {
+  background-color: transparent;
+  height: 38px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 224px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .bolsillos-500000-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 99px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 311px;
+  width: 68px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .span0-1aoO7j {
+}
+
+.pagos-pendientes-disponible-o-ahorros .span1-1aoO7j {
+}
+
+.pagos-pendientes-disponible-o-ahorros .disponible-1500000-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: 16.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 311px;
+  width: 68px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .span0-U5eVev {
+}
+
+.pagos-pendientes-disponible-o-ahorros .span1-U5eVev {
+}
+
+.pagos-pendientes-disponible-o-ahorros .group-392-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 233px;
+  position: absolute;
+  top: 248px;
+  width: 49px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .rectangle-1415-T4L6ob {
+  background-color: transparent;
+  border-radius: 2px;
+  height: 37px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 54px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .vector-136-T4L6ob {
+  background-color: transparent;
+  height: 2px;
+  left: -1px;
+  position: absolute;
+  top: 38px;
+  width: 51px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .vector-137-T4L6ob {
+  background-color: transparent;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 42px;
+  width: 44px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .group-352-T4L6ob {
+  background-color: transparent;
+  height: 17px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .ellipse-93-BxyxlP {
+  background-color: transparent;
+  border-radius: 8.33px;
+  height: 17px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 17px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .union-BxyxlP {
+  background-color: transparent;
+  height: 11px;
+  left: 5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .group-393-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 48px;
+  left: 113px;
+  position: absolute;
+  top: 246px;
+  width: 39px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .rectangle-1416-DxsOZ5 {
+  background-color: transparent;
+  height: 48px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 39px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .rectangle-1417-DxsOZ5 {
+  background-color: transparent;
+  height: 16px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 39px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .ellipse-104-DxsOZ5 {
+  background-color: var(--cielo-claro);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.pagos-pendientes-disponible-o-ahorros .heart-DxsOZ5 {
+  background-color: transparent;
+  height: 17px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 18px;
+}

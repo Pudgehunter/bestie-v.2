@@ -1,0 +1,152 @@
+/* screen - registrarse-elegir */
+
+.registrarse-elegir {
+  background-color: transparent;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+#overlay-registrarse-elegir {
+  background-color: transparent;
+}
+
+.overlay .registrarse-elegir {
+  background-color: #00000000;
+}
+
+.registrarse-elegir .registrarse-elegir-C61RwL {
+  background-color: transparent;
+  height: 844px;
+  left: calc(50vw - 195.0px);
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 422.0px);
+  width: 390px;
+}
+
+.registrarse-elegir .rectangle-1316-lKjNvd {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 252px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 296px;
+  width: 336px;
+}
+
+.registrarse-elegir .rectangle-1320-lKjNvd {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 391px;
+  width: 269px;
+}
+
+.registrarse-elegir .rectangle-1321-lKjNvd {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 60px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 457px;
+  width: 269px;
+}
+
+.registrarse-elegir .emprendedor-lKjNvd {
+  background-color: transparent;
+  height: 44px;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 390px;
+  width: 279px;
+}
+
+.registrarse-elegir .cliente-lKjNvd {
+  background-color: transparent;
+  height: 44px;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 453px;
+  width: 279px;
+}
+
+.registrarse-elegir .group-370-lKjNvd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 109px;
+  width: 85px;
+}
+
+.registrarse-elegir .group-371-infWZe {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 87px;
+}
+
+.registrarse-elegir .regresar-r7S3Aq {
+  background-color: transparent;
+  height: auto;
+  left: 25px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.registrarse-elegir .vector-r7S3Aq {
+  background-color: transparent;
+  height: 16px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+
+.registrarse-elegir .vas-a-registrarte-co-lKjNvd {
+  background-color: transparent;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 329px;
+  width: 237px;
+}
+
+.registrarse-elegir .span0-ff9daM {
+}
+
+.registrarse-elegir .span1-ff9daM {
+}
+
+.registrarse-elegir .span2-ff9daM {
+}

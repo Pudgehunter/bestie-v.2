@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/login-cliente.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #55b3ff">
+    <input type="hidden" id="anPageName" name="page" value="login-cliente" />
+    <div class="container-center-horizontal">
+      <form class="login-cliente screen" name="form10" action="form10" method="post">
+        <img class="bestie-C61RwL" src="img/bestie-4@1x.png" />
+        <div class="no-tienes-cuenta-C61RwL inter-light-white-16px">¿No tienes cuenta?</div>
+        <div class="iniciar-sesin-C61RwL inter-semi-bold-white-16px">Iniciar sesión</div>
+        <a href="registro-cliente-1.html">
+          <div class="group-262-C61RwL">
+            <div class="rectangle-6-xK50sQ border-1px-cielo"></div>
+            <div class="enviar-xK50sQ valign-text-middle inter-semi-bold-blue-jeans-14px">Regístrate</div>
+          </div></a
+        ><a href="javascript:SubmitForm('form10')">
+          <div class="group-263-C61RwL">
+            <div class="rectangle-6-A0D2x3 border-1px-cielo"></div>
+            <div class="enviar-A0D2x3 valign-text-middle inter-semi-bold-blue-jeans-14px">Iniciar sesión</div>
+          </div></a
+        >
+        <div class="rectangle-32-C61RwL"></div>
+        <div class="rectangle-33-C61RwL"></div>
+        <div class="inicia-sesin-con-C61RwL inter-normal-white-16px">Inicia sesión con</div>
+        <div class="google-C61RwL inter-normal-white-8-7px">Google</div>
+        <div class="facebook-C61RwL inter-normal-white-8-7px">Facebook</div>
+        <img class="vector-11-C61RwL" src="img/vector-11-1@2x.svg" />
+        <img class="vector-12-C61RwL" src="img/vector-12-1@2x.svg" />
+        <img class="image-10-C61RwL" src="img/image-10@2x.png" />
+        <img class="image-9-C61RwL" src="img/image-9@2x.png" />
+        <a href="olvide-contrasena.html">
+          <div class="olvide-mi-contrasea-C61RwL">
+            <div class="olvid-mi-contrasea-M4TY7X">Olvidé mi contraseña</div>
+          </div></a
+        >
+        <div class="nombre-usuario-C61RwL">
+          <img class="line-13-RUpa8C" src="img/line-13@2x.svg" />
+          <input
+            class="nombre-de-usuario-RUpa8C inter-light-white-16px"
+            name="nombredeusuario"
+            placeholder="Nombre de usuario"
+            type="email"
+          />
+        </div>
+        <div class="contrasea-usuario-C61RwL">
+          <img class="line-14-I5ZCxM" src="img/line-14@2x.svg" />
+          <input
+            class="contrasea-I5ZCxM inter-light-white-16px"
+            name="contraseña"
+            placeholder="Contraseña"
+            type="password"
+            required
+          />
+        </div>
+      </form>
+    </div>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,429 @@
+/* screen - metodo-de-pago-stickers */
+
+.metodo-de-pago-stickers {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.metodo-de-pago-stickers .rectangle-1321-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 20px;
+  height: 446px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 161px;
+  width: 336px;
+}
+
+.metodo-de-pago-stickers .tu-carrito-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 102px;
+  width: auto;
+}
+
+.metodo-de-pago-stickers .group-242-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 58px;
+  position: absolute;
+  top: 527px;
+  width: 276px;
+}
+
+.metodo-de-pago-stickers .rectangle-1308-VDz23I {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.metodo-de-pago-stickers .paypal-VDz23I {
+  background-color: transparent;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 222px;
+}
+
+.metodo-de-pago-stickers .group-241-C61RwL {
+  background-color: transparent;
+  height: 153px;
+  left: 137px;
+  position: absolute;
+  top: 202px;
+  width: 125px;
+}
+
+.metodo-de-pago-stickers .group-240-C61RwL {
+  background-color: transparent;
+  height: 162px;
+  left: 119px;
+  position: absolute;
+  top: 196px;
+  width: 132px;
+}
+
+.metodo-de-pago-stickers .ests-donando-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 382px;
+  width: 274px;
+}
+
+.metodo-de-pago-stickers .selecciona-tu-mtodo-de-pago-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 487px;
+  width: 274px;
+}
+
+.metodo-de-pago-stickers .x22000-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 421px;
+  width: 274px;
+}
+
+.metodo-de-pago-stickers .image-5-C61RwL {
+  background-color: transparent;
+  height: 31px;
+  left: 69px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 530px;
+  width: 19px;
+}
+
+.metodo-de-pago-stickers .group-230-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 38px;
+  left: 127px;
+  position: absolute;
+  top: 640px;
+  width: 140px;
+}
+
+.metodo-de-pago-stickers .rectangle-6-PdN6Mn {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 138px;
+}
+
+.metodo-de-pago-stickers .comprar-PdN6Mn {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 67px;
+}
+
+.metodo-de-pago-stickers .vector-C61RwL {
+  background-color: transparent;
+  height: 10px;
+  left: 298px;
+  position: absolute;
+  top: 542px;
+  width: 20px;
+}
+
+.metodo-de-pago-stickers .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.metodo-de-pago-stickers .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.metodo-de-pago-stickers .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.metodo-de-pago-stickers .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.metodo-de-pago-stickers .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.metodo-de-pago-stickers .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.metodo-de-pago-stickers .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}
+
+.metodo-de-pago-stickers .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.metodo-de-pago-stickers .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.metodo-de-pago-stickers .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.metodo-de-pago-stickers .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.metodo-de-pago-stickers .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.metodo-de-pago-stickers .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.metodo-de-pago-stickers .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.metodo-de-pago-stickers .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.metodo-de-pago-stickers .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.metodo-de-pago-stickers .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.metodo-de-pago-stickers .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.metodo-de-pago-stickers .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.metodo-de-pago-stickers .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.metodo-de-pago-stickers .vector-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  left: 18px;
+  position: absolute;
+  top: 50px;
+  width: 12px;
+}
+
+.metodo-de-pago-stickers .enviar-un-regalo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 142px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 51px;
+  width: auto;
+}
+
+.metodo-de-pago-stickers .image00002-C61RwL {
+  background-color: transparent;
+  height: 82px;
+  left: 174px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 64px;
+}
+
+.metodo-de-pago-stickers .image00001-2-C61RwL {
+  background-color: transparent;
+  height: 104px;
+  left: 133px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 196px;
+  width: 89px;
+}

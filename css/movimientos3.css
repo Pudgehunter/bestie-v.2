@@ -1,0 +1,654 @@
+/* screen - movimientos3 */
+
+.movimientos3 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.movimientos3 .rectangle-1330-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 58px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 177px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.movimientos3 .nav-cliente-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 754px;
+  width: 390px;
+}
+
+.movimientos3 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.movimientos3 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.movimientos3 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.movimientos3 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.movimientos3 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.movimientos3 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.movimientos3 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.movimientos3 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.movimientos3 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.movimientos3 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.movimientos3 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.movimientos3 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.movimientos3 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.movimientos3 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.movimientos3 .group-365-C61RwL {
+  background-color: transparent;
+  height: 39px;
+  left: 86px;
+  position: absolute;
+  top: 164px;
+  width: 213px;
+}
+
+.movimientos3 .recibiste-180000-de-anitavergara-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 230px;
+  width: auto;
+}
+
+.movimientos3 .span0-PUTXJn {
+}
+
+.movimientos3 .span1-PUTXJn {
+}
+
+.movimientos3 .pagaste-12000-a-sara-benavides-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 290px;
+  width: auto;
+}
+
+.movimientos3 .span0-lxfEIU {
+}
+
+.movimientos3 .span1-lxfEIU {
+}
+
+.movimientos3 .recibiste-180000-de-alejandroppp-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 350px;
+  width: auto;
+}
+
+.movimientos3 .span0-6iPbcA {
+}
+
+.movimientos3 .span1-6iPbcA {
+}
+
+.movimientos3 .recibiste-60000-de-juanperez-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 710px;
+  width: auto;
+}
+
+.movimientos3 .span0-iA2UPR {
+}
+
+.movimientos3 .span1-iA2UPR {
+}
+
+.movimientos3 .hoy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: auto;
+}
+
+.movimientos3 .ayer-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 410px;
+  width: auto;
+}
+
+.movimientos3 .viernes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 680px;
+  width: auto;
+}
+
+.movimientos3 .el-22032022-a-las-2038-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 311px;
+  width: auto;
+}
+
+.movimientos3 .el-22032022-a-las-2038-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 251px;
+  width: auto;
+}
+
+.movimientos3 .el-22032022-a-las-2038-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  width: auto;
+}
+
+.movimientos3 .el-22032022-a-las-2038-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 731px;
+  width: auto;
+}
+
+.movimientos3 .rectangle-1327-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 291px;
+  width: 40px;
+}
+
+.movimientos3 .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 231px;
+  width: 40px;
+}
+
+.movimientos3 .group-353-C61RwL {
+  background-color: transparent;
+  height: 128px;
+  left: 30px;
+  position: absolute;
+  top: 621px;
+  width: 293px;
+}
+
+.movimientos3 .recibiste-120000-de-juanperez-xOHhF4 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos3 .span0-1zRqLF {
+}
+
+.movimientos3 .span1-1zRqLF {
+}
+
+.movimientos3 .el-22032022-a-las-2038-xOHhF4 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos3 .rectangle-1331-xOHhF4 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.movimientos3 .rectangle-1332-xOHhF4 {
+  background-color: transparent;
+  height: 40px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 88px;
+  width: 40px;
+}
+
+.movimientos3 .rectangle-1329-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 351px;
+  width: 40px;
+}
+
+.movimientos3 .group-356-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 441px;
+  width: 299px;
+}
+
+.movimientos3 .pagaste-350000-a-camiloduque-RcKkqs {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos3 .span0-U6pxSc {
+}
+
+.movimientos3 .span1-U6pxSc {
+}
+
+.movimientos3 .el-22032022-a-las-2038-RcKkqs {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos3 .rectangle-1328-RcKkqs {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.movimientos3 .group-355-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 501px;
+  width: 296px;
+}
+
+.movimientos3 .pagaste-350000-a-lauracaotico-P1ni8H {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos3 .span0-pivtzR {
+}
+
+.movimientos3 .span1-pivtzR {
+}
+
+.movimientos3 .el-22032022-a-las-2038-P1ni8H {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos3 .rectangle-1329-P1ni8H {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.movimientos3 .group-354-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 561px;
+  width: 291px;
+}
+
+.movimientos3 .pagaste-350000-a-juancaotico-zKI3W0 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos3 .span0-64Ivxg {
+}
+
+.movimientos3 .span1-64Ivxg {
+}
+
+.movimientos3 .el-22032022-a-las-2038-zKI3W0 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos3 .rectangle-1330-zKI3W0 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.movimientos3 .group-119-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 14px;
+  left: 32px;
+  position: absolute;
+  top: 108px;
+  width: 23px;
+}
+
+.movimientos3 .group-98-6O7KbK {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 7px;
+}
+
+.movimientos3 .line-10-4xipvn {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.movimientos3 .line-11-4xipvn {
+  background-color: transparent;
+  height: 8px;
+  left: -0px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.movimientos3 .line-12-6O7KbK {
+  background-color: transparent;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 21px;
+}
+
+.movimientos3 .movimientos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 120px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 99px;
+  width: auto;
+}

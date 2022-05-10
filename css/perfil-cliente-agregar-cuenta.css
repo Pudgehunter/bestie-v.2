@@ -1,0 +1,411 @@
+/* screen - perfil-cliente-agregar-cuenta */
+
+.perfil-cliente-agregar-cuenta {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-cuenta .rectangle-1324-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 49px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 625px;
+  width: 327px;
+}
+
+.perfil-cliente-agregar-cuenta .agregar-cuenta-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 640px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .group-98-C61RwL {
+  background-color: transparent;
+  height: 14px;
+  left: 32px;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+
+.perfil-cliente-agregar-cuenta .line-10-royatl {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: -0px;
+  width: 8px;
+}
+
+.perfil-cliente-agregar-cuenta .line-11-royatl {
+  background-color: transparent;
+  height: 8px;
+  left: -1px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.perfil-cliente-agregar-cuenta .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: -0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-cuenta .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.perfil-cliente-agregar-cuenta .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.perfil-cliente-agregar-cuenta .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.perfil-cliente-agregar-cuenta .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.perfil-cliente-agregar-cuenta .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.perfil-cliente-agregar-cuenta .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.perfil-cliente-agregar-cuenta .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.perfil-cliente-agregar-cuenta .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.perfil-cliente-agregar-cuenta .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.perfil-cliente-agregar-cuenta .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.perfil-cliente-agregar-cuenta .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.perfil-cliente-agregar-cuenta .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 18px;
+  position: absolute;
+  top: 52px;
+  width: 9px;
+}
+
+.perfil-cliente-agregar-cuenta .rectangle-1329-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 148px;
+  width: 324px;
+}
+
+.perfil-cliente-agregar-cuenta .rectangle-1330-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 210px;
+  width: 324px;
+}
+
+.perfil-cliente-agregar-cuenta .rectangle-1331-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 272px;
+  width: 324px;
+}
+
+.perfil-cliente-agregar-cuenta .rectangle-1332-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 49px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 334px;
+  width: 324px;
+}
+
+.perfil-cliente-agregar-cuenta .vector-VMr6Om {
+  background-color: transparent;
+  height: 9px;
+  left: 331px;
+  position: absolute;
+  top: 167px;
+  width: 16px;
+}
+
+.perfil-cliente-agregar-cuenta .selecciona-tu-banco-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 163px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .nombre-del-titular-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 287px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .nmero-de-cuenta-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .nmero-de-cdula-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 349px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .nueva-cuenta-de-banco-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: 24.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .datos-de-la-cuenta-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 105px;
+  width: auto;
+}
+
+.perfil-cliente-agregar-cuenta .nav-client-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-cuenta .rectangle-1462-rmsJ2W {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.perfil-cliente-agregar-cuenta .union-rmsJ2W {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.perfil-cliente-agregar-cuenta .union-YxtCn7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.perfil-cliente-agregar-cuenta .union-51xng8 {
+  background-color: transparent;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-agregar-cuenta .union-i7e17Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 225px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 37px;
+}
+
+.perfil-cliente-agregar-cuenta .union-285rPD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

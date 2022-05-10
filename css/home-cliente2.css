@@ -1,0 +1,10 @@
+/* screen - home-cliente2 */
+
+.home-cliente2 {
+  background-color: var(--black);
+  height: 605px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 3708px;
+}

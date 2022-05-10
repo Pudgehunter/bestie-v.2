@@ -1,0 +1,712 @@
+/* screen - movimientos-1 */
+
+.movimientos-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.movimientos-1 .movimientos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 153px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 107px;
+  width: auto;
+}
+
+.movimientos-1 .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 19px;
+  position: absolute;
+  top: 108px;
+  width: 9px;
+}
+
+.movimientos-1 .rectangle-8-C61RwL {
+  background-color: transparent;
+  height: 72px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 390px;
+}
+
+.movimientos-1 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: -0px;
+  width: 390px;
+}
+
+.movimientos-1 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.movimientos-1 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.movimientos-1 .cellular-connection-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.movimientos-1 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.movimientos-1 .wifi-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 17px;
+}
+
+.movimientos-1 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.movimientos-1 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.movimientos-1 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.movimientos-1 .capacity-4jFiZR {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.movimientos-1 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.movimientos-1 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.movimientos-1 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1325-C61RwL {
+  background-color: var(--black-squeeze);
+  border-radius: 58px;
+  height: 31px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 153px;
+  width: 329px;
+}
+
+.movimientos-1 .rectangle-1326-C61RwL {
+  background-color: var(--cielo);
+  border-radius: 58px;
+  height: 27px;
+  left: 37px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 155px;
+  width: 110px;
+}
+
+.movimientos-1 .todo-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 42px;
+}
+
+.movimientos-1 .pagos-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 171px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 42px;
+}
+
+.movimientos-1 .donaciones-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 256px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 158px;
+  width: 82px;
+}
+
+.movimientos-1 .recibiste-180000-de-anitavergara-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 230px;
+  width: auto;
+}
+
+.movimientos-1 .span0-PUTXJn {
+}
+
+.movimientos-1 .span1-PUTXJn {
+}
+
+.movimientos-1 .pagaste-12000-a-misbowlsss-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 290px;
+  width: auto;
+}
+
+.movimientos-1 .span0-xK4n5Q {
+}
+
+.movimientos-1 .span1-xK4n5Q {
+}
+
+.movimientos-1 .recibiste-180000-de-alejandroppp-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 350px;
+  width: auto;
+}
+
+.movimientos-1 .span0-6iPbcA {
+}
+
+.movimientos-1 .span1-6iPbcA {
+}
+
+.movimientos-1 .recibiste-60000-de-misbowlsss-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 710px;
+  width: auto;
+}
+
+.movimientos-1 .span0-wOTOLT {
+}
+
+.movimientos-1 .span1-wOTOLT {
+}
+
+.movimientos-1 .hoy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 200px;
+  width: auto;
+}
+
+.movimientos-1 .ayer-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 410px;
+  width: auto;
+}
+
+.movimientos-1 .viernes-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 680px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 311px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 251px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 371px;
+  width: auto;
+}
+
+.movimientos-1 .el-22032022-a-las-2038-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 731px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1327-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 290px;
+  width: 40px;
+}
+
+.movimientos-1 .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 230px;
+  width: 40px;
+}
+
+.movimientos-1 .group-353-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 621px;
+  width: 293px;
+}
+
+.movimientos-1 .recibiste-120000-de-juanperez-xOHhF4 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-1zRqLF {
+}
+
+.movimientos-1 .span1-1zRqLF {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-xOHhF4 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1331-xOHhF4 {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .rectangle-1329-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 350px;
+  width: 40px;
+}
+
+.movimientos-1 .rectangle-1328-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 710px;
+  width: 40px;
+}
+
+.movimientos-1 .group-356-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 441px;
+  width: 299px;
+}
+
+.movimientos-1 .pagaste-350000-a-camiloduque-RcKkqs {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-U6pxSc {
+}
+
+.movimientos-1 .span1-U6pxSc {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-RcKkqs {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1328-RcKkqs {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .group-355-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 501px;
+  width: 296px;
+}
+
+.movimientos-1 .pagaste-350000-a-lauracaotico-P1ni8H {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-pivtzR {
+}
+
+.movimientos-1 .span1-pivtzR {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-P1ni8H {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1329-P1ni8H {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .group-354-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 561px;
+  width: 291px;
+}
+
+.movimientos-1 .pagaste-350000-a-juancaotico-zKI3W0 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+
+.movimientos-1 .span0-64Ivxg {
+}
+
+.movimientos-1 .span1-64Ivxg {
+}
+
+.movimientos-1 .el-22032022-a-las-2038-zKI3W0 {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 21px;
+  width: auto;
+}
+
+.movimientos-1 .rectangle-1330-zKI3W0 {
+  background-color: transparent;
+  height: 40px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 40px;
+}
+
+.movimientos-1 .nav-emprendimiento-C61RwL {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 769px;
+  width: 390px;
+}
+
+.movimientos-1 .rectangle-1463-VNtfJe {
+  background-color: var(--white);
+  height: 75px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.movimientos-1 .union-VNtfJe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+  left: 226px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.movimientos-1 .union-t9QcV5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.movimientos-1 .union-pIWv0k {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 123px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 46px;
+}
+
+.movimientos-1 .union-rK7kDd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 36px;
+  left: 330px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+  width: 23px;
+}

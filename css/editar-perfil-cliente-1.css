@@ -1,0 +1,500 @@
+/* screen - editar-perfil-cliente-1 */
+
+.editar-perfil-cliente-1 {
+  background-color: var(--white);
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.editar-perfil-cliente-1 .group-242-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 58px;
+  position: absolute;
+  top: 569px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .rectangle-1308-VDz23I {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .component-13-C61RwL {
+  background-color: transparent;
+  height: 15px;
+  left: 75px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 580px;
+  width: 222px;
+}
+
+.editar-perfil-cliente-1 .ciudad-mkY3xh {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 222px;
+}
+
+.editar-perfil-cliente-1 .ciudad-49GxMx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 222px;
+}
+
+.editar-perfil-cliente-1 .component-9-C61RwL {
+  background-color: transparent;
+  height: 22px;
+  left: 58px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 304px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .component-1-y49ok2 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .component-1-TQKxA6 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .nombre-7Ev3ih {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 316px;
+}
+
+.editar-perfil-cliente-1 .line-2-7Ev3ih {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .component-9-VMr6Om {
+  background-color: transparent;
+  height: 22px;
+  left: 58px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 352px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .component-2-dO6vhp {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .component-2-XBsQBf {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .username-uARgWK {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 316px;
+}
+
+.editar-perfil-cliente-1 .line-3-uARgWK {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .component-9-mzXdH9 {
+  background-color: transparent;
+  height: 22px;
+  left: 58px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 400px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .component-3-p2qoxP {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .component-3-eSQUq8 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 319px;
+}
+
+.editar-perfil-cliente-1 .nmero-de-telfono-JFLngw {
+  background-color: transparent;
+  height: auto;
+  left: 3px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: 316px;
+}
+
+.editar-perfil-cliente-1 .line-4-JFLngw {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 140px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 154px;
+  width: 110px;
+}
+
+.editar-perfil-cliente-1 .vector-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 10px;
+  left: 295px;
+  position: absolute;
+  top: 584px;
+  width: 20px;
+}
+
+.editar-perfil-cliente-1 .status-bar-i-phone-13-13-pro-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 390px;
+}
+
+.editar-perfil-cliente-1 .indicators-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 7px;
+  justify-content: flex-start;
+  left: 285px;
+  position: absolute;
+  top: 19px;
+}
+
+.editar-perfil-cliente-1 .elements-signal-DFyBAk {
+  background-color: transparent;
+  height: 12.000133514404297px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 19.970584869384766px;
+}
+
+.editar-perfil-cliente-1 .icon-bar_chart-J8m9bL {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0px;
+  width: 20px;
+}
+
+.editar-perfil-cliente-1 .elements-connection-DFyBAk {
+  background-color: transparent;
+  height: 12.5px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 17px;
+}
+
+.editar-perfil-cliente-1 .icon-signal-rfGD5B {
+  background-color: transparent;
+  height: 12px;
+  left: -0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 17px;
+}
+
+.editar-perfil-cliente-1 .elements-battery-DFyBAk {
+  background-color: transparent;
+  height: 13px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 27.329999923706055px;
+}
+
+.editar-perfil-cliente-1 .border-4jFiZR {
+  background-color: transparent;
+  border-radius: 4px;
+  height: 13px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.editar-perfil-cliente-1 .cap-4jFiZR {
+  background-color: transparent;
+  height: 4px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.editar-perfil-cliente-1 .capacity-4jFiZR {
+  background-color: var(--black);
+  border-radius: 2px;
+  height: 9px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.editar-perfil-cliente-1 .mic-cam-ioFxYm {
+  background-color: transparent;
+  height: 6px;
+  left: 282px;
+  position: absolute;
+  top: 6px;
+  width: 6px;
+}
+
+.editar-perfil-cliente-1 .elements-time-ioFxYm {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  left: 46px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.editar-perfil-cliente-1 .time-ZiAW4B {
+  background-color: transparent;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.editar-perfil-cliente-1 .editar-mi-perfil-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  width: auto;
+}
+
+.editar-perfil-cliente-1 .vector-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 25px;
+  position: absolute;
+  top: 58px;
+  width: 9px;
+}
+
+.editar-perfil-cliente-1 .ellipse-88-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 217px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 224px;
+  width: 48px;
+}
+
+.editar-perfil-cliente-1 .camera-C61RwL {
+  background-color: transparent;
+  height: 24px;
+  left: 229px;
+  position: absolute;
+  top: 233px;
+  width: 24px;
+}
+
+.editar-perfil-cliente-1 .rectangle-354-ej2VFb {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.editar-perfil-cliente-1 .ellipse-57-ej2VFb {
+  background-color: transparent;
+  border-radius: 5.06px;
+  height: 10px;
+  left: 7px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.editar-perfil-cliente-1 .group-261-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 61px;
+  position: absolute;
+  top: 654px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .rectangle-6-FD978N {
+  background-color: var(--cielo);
+  border-radius: 7px;
+  height: 38px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .enviar-FD978N {
+  background-color: transparent;
+  height: 38px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 237px;
+}
+
+.editar-perfil-cliente-1 .nav-cliente-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 753px;
+  width: 390px;
+}
+
+.editar-perfil-cliente-1 .rectangle-1312-C61RwL {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 95px;
+  left: 58px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 448px;
+  width: 274px;
+}
+
+.editar-perfil-cliente-1 .descripcin-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 63px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 453px;
+  width: 244px;
+}

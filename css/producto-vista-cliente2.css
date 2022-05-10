@@ -1,0 +1,137 @@
+/* screen - producto-vista-cliente2 */
+
+.producto-vista-cliente2 {
+  background-color: transparent;
+  height: 844px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+#overlay-producto-vista-cliente2 {
+  background-color: transparent;
+}
+
+.overlay .producto-vista-cliente2 {
+  background-color: #00000000;
+}
+
+.producto-vista-cliente2 .producto-vista-cliente-C61RwL {
+  background-color: transparent;
+  height: 844px;
+  left: calc(50vw - 195.0px);
+  overflow: hidden;
+  position: relative;
+  top: calc(50vh - 422.0px);
+  width: 390px;
+}
+
+.producto-vista-cliente2 .rectangle-1315-lnCCPO {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1px;
+}
+
+.producto-vista-cliente2 .rectangle-1389-lnCCPO {
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+  backdrop-filter: blur(4px) brightness(100%);
+  background-color: var(--mist-gray-2);
+  height: 844px;
+  left: -5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 399px;
+}
+
+.producto-vista-cliente2 .group-367-lnCCPO {
+  background-color: transparent;
+  height: 118px;
+  left: 21px;
+  position: absolute;
+  top: 363px;
+  width: 355px;
+}
+
+.producto-vista-cliente2 .rectangle-1316-yIeLZw {
+  background-color: var(--cielo);
+  border-radius: 10px;
+  height: 118px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+
+.producto-vista-cliente2 .producto-aadido-yIeLZw {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  width: 316px;
+}
+
+.producto-vista-cliente2 .rectangle-1320-yIeLZw {
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 14px;
+  position: absolute;
+  top: 50px;
+  width: 157px;
+}
+
+.producto-vista-cliente2 .rectangle-1321-yIeLZw {
+  background-color: var(--white);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 42px;
+  left: 178px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 157px;
+}
+
+.producto-vista-cliente2 .ver-carrito-yIeLZw {
+  background-color: transparent;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 157px;
+}
+
+.producto-vista-cliente2 .seguir-comprando-yIeLZw {
+  background-color: transparent;
+  color: var(--cielo-osc);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: 157px;
+}

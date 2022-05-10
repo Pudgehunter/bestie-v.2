@@ -1,0 +1,44 @@
+/* screen - component-57 */
+
+.component-57 {
+  background-color: transparent;
+  height: 844px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.component-57 .component-57-C61RwL {
+  background-color: transparent;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 275px;
+}
+
+.component-57 .rectangle-1384-7Pjc0B {
+  background-color: var(--cuadros-relleno);
+  border-radius: 7.5px;
+  height: 37px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 275px;
+}
+
+.component-57 .x255000-7Pjc0B {
+  background-color: transparent;
+  height: auto;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 244px;
+}
